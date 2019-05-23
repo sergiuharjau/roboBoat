@@ -1,0 +1,5361 @@
+  File "mainSteering.py", line 48
+    else:
+       ^
+IndentationError: expected an indented block
+Mission start!
+
+ Iteration:  1 
+ Mission time:  0
+Current wind:  350
+Wind to Bear diff:  148.0
+From the side, 1
+True Bearing 138.0
+Our coords:  19.9461911667 60.1048091667
+Dest coords:  19.946919 60.104793
+Real angle:  312.0
+Dest angle:  -1.2724498701033868
+Real difference:  313.2724498701034
+Bigger than 180. Going:  46.7275501298966
+Distance to actual destination:  40.52462782192902
+
+ Iteration:  2 
+ Mission time:  2
+Current wind:  350
+Wind to Bear diff:  148.1
+From the side, 1
+True Bearing 138.1
+Our coords:  19.9461923333 60.1048086667
+Dest coords:  19.946919 60.104793
+Real angle:  311.9
+Dest angle:  -1.2350872114332034
+Real difference:  313.1350872114332
+Bigger than 180. Going:  46.86491278856681
+Distance to actual destination:  40.45736037340041
+
+ Iteration:  3 
+ Mission time:  4
+Current wind:  350
+Wind to Bear diff:  148.1
+From the side, 1
+True Bearing 138.1
+Our coords:  19.9461931667 60.1048111667
+Dest coords:  19.946919 60.104793
+Real angle:  311.9
+Dest angle:  -1.4337423915534493
+Real difference:  313.3337423915534
+Bigger than 180. Going:  46.666257608446585
+Distance to actual destination:  40.42403420291868
+
+ Iteration:  4 
+ Mission time:  6
+Current wind:  350
+Wind to Bear diff:  148.1
+From the side, 1
+True Bearing 138.1
+Our coords:  19.9461936667 60.1048106667
+Dest coords:  19.946919 60.104793
+Real angle:  311.9
+Dest angle:  -1.3952582239681495
+Real difference:  313.2952582239681
+Bigger than 180. Going:  46.70474177603188
+Distance to actual destination:  40.39350486057328
+
+ Iteration:  5 
+ Mission time:  8
+Current wind:  350
+Wind to Bear diff:  115.69999999999999
+From the side, 2
+True Bearing 105.2
+Our coords:  19.9461925 60.1048108333
+Dest coords:  19.946919 60.104793
+Real angle:  344.8
+Dest angle:  -1.4061495888035307
+Real difference:  346.20614958880356
+Bigger than 180. Going:  13.793850411196445
+Distance to actual destination:  40.45923091391221
+
+ Iteration:  6 
+ Mission time:  10
+Current wind:  350
+Wind to Bear diff:  62.0
+From the side, 3
+True Bearing 52.0
+Our coords:  19.946191 60.1048085
+Dest coords:  19.946919 60.104793
+Real angle:  38.0
+Dest angle:  -1.2197121216221447
+Real difference:  39.21971212162214
+Smaller than 180. Going,  39.21971212162214
+Distance to actual destination:  40.53065866764119
+
+ Iteration:  7 
+ Mission time:  12
+Current wind:  350
+Wind to Bear diff:  65.10000000000002
+From the side, 3
+True Bearing 55.1
+Our coords:  19.946191 60.1048061667
+Dest coords:  19.946919 60.104793
+Real angle:  34.89999999999998
+Dest angle:  -1.0361457416634061
+Real difference:  35.93614574166338
+Smaller than 180. Going,  35.93614574166338
+Distance to actual destination:  40.52041609865535
+
+ Iteration:  8 
+ Mission time:  14
+Current wind:  350
+Wind to Bear diff:  65.80000000000001
+From the side, 3
+True Bearing 56.0
+Our coords:  19.946193 60.1048063333
+Dest coords:  19.946919 60.104793
+Real angle:  34.0
+Dest angle:  -1.0521431741871767
+Real difference:  35.052143174187165
+Smaller than 180. Going,  35.052143174187165
+Distance to actual destination:  40.40992036279388
+
+ Iteration:  9 
+ Mission time:  16
+Current wind:  350
+Wind to Bear diff:  157.0
+In irons
+
+Tacking started
+Moving rudder to 30d.  -1
+Wind direction:  530
+Waiting for orientation to align 30d. 
+Bearing:  147.7
+Relative wind angle:  22.30000000000001
+Waiting for orientation to align 30d. 
+Bearing:  179.6
+Relative wind angle:  9.199999999999989
+Waiting for orientation to align 30d. 
+Bearing:  197.3
+Relative wind angle:  27.30000000000001
+Waiting for orientation to align 30d. 
+Bearing:  203.3
+Relative wind angle:  33.30000000000001
+Waiting for orientation to align 30d. 
+Bearing:  196.6
+Relative wind angle:  26.69999999999999
+Waiting for orientation to align 30d. 
+Bearing:  185.6
+Relative wind angle:  15.599999999999994
+Waiting for orientation to align 30d. 
+Bearing:  192.9
+Relative wind angle:  22.69999999999999
+Waiting for orientation to align 30d. 
+Bearing:  213.5
+Relative wind angle:  43.5
+Moving at a 30d angle for:  20 m
+Distance left:  19.888567230746663 m
+Current GPS:  (60.1048046667, 19.9461905)
+Distance left:  18.629756857807642 m
+Current GPS:  (60.1048013333, 19.9461935)
+Distance left:  18.738247800080476 m
+Current GPS:  (60.1048043333, 19.9461925)
+Distance left:  18.982320787056622 m
+Current GPS:  (60.1048041667, 19.946194)
+Distance left:  18.89653909780687 m
+Current GPS:  (60.1048008333, 19.9461935)
+Distance left:  18.677399838328423 m
+Current GPS:  (60.1048006667, 19.9461951667)
+Distance left:  18.745047663143314 m
+Current GPS:  (60.1047988333, 19.946198)
+Distance left:  18.693334688529635 m
+Current GPS:  (60.1047981667, 19.9461985)
+Distance left:  18.636288553688708 m
+Current GPS:  (60.1047986667, 19.9461968333)
+Distance left:  18.638281526197577 m
+Current GPS:  (60.1047988333, 19.946197)
+Distance left:  18.5984380467305 m
+Current GPS:  (60.1047975, 19.9461971667)
+Distance left:  18.511396714266823 m
+Current GPS:  (60.104798, 19.9461985)
+Distance left:  18.551456219044116 m
+Current GPS:  (60.1047976667, 19.9462)
+Distance left:  18.624670046122883 m
+Current GPS:  (60.1047983333, 19.9462006667)
+Distance left:  18.65135904830138 m
+Current GPS:  (60.1047981667, 19.9461978333)
+Distance left:  18.6882380240093 m
+Current GPS:  (60.1048041667, 19.9462053333)
+Distance left:  19.344995692135274 m
+Current GPS:  (60.1048055, 19.9462056667)
+Distance left:  19.541011899095803 m
+Current GPS:  (60.1048046667, 19.946207)
+Distance left:  19.558711702887184 m
+Current GPS:  (60.1048093333, 19.946207)
+Distance left:  20.014298330153547 m
+Current GPS:  (60.1048073333, 19.9462095)
+Distance left:  19.84141898077974 m
+Current GPS:  (60.1048095, 19.9462141667)
+Distance left:  19.25025253824079 m
+Current GPS:  (60.104792, 19.9462583333)
+Distance left:  15.86279057938806 m
+Current GPS:  (60.104775, 19.9463115)
+Distance left:  12.527798974320627 m
+Current GPS:  (60.1047678333, 19.9463583333)
+Distance left:  10.008440551440685 m
+Current GPS:  (60.1047638333, 19.946406)
+Distance left:  7.582570519411805 m
+Current GPS:  (60.1047686667, 19.9464395)
+Distance left:  6.347974960834664 m
+Current GPS:  (60.1047738333, 19.9464501667)
+Tacking Stopped
+True Bearing 66.4
+Our coords:  19.9461951667 60.1048108333
+Dest coords:  19.946919 60.104793
+Real angle:  23.600000000000023
+Dest angle:  -1.4113279431133223
+Real difference:  25.011327943113372
+Smaller than 180. Going,  25.011327943113372
+Distance to actual destination:  40.311079561640966
+
+ Iteration:  10 
+ Mission time:  135
+Current wind:  350
+Wind to Bear diff:  72.10000000000002
+From the side, 3
+True Bearing 62.0
+Our coords:  19.9464498333 60.1047765
+Dest coords:  19.946919 60.104793
+Real angle:  28.0
+Dest angle:  2.0141900300837485
+Real difference:  25.98580996991625
+Smaller than 180. Going,  25.98580996991625
+Distance to actual destination:  26.16133931382303
+
+ Iteration:  11 
+ Mission time:  137
+Current wind:  350
+Wind to Bear diff:  75.89999999999998
+From the side, 3
+True Bearing 65.9
+Our coords:  19.9464611667 60.1047785
+Dest coords:  19.946919 60.104793
+Real angle:  24.100000000000023
+Dest angle:  1.8140034736335886
+Real difference:  22.285996526366436
+Smaller than 180. Going,  22.285996526366436
+Distance to actual destination:  25.517456819590357
+
+ Iteration:  12 
+ Mission time:  139
+Current wind:  350
+Wind to Bear diff:  77.80000000000001
+From the side, 3
+True Bearing 68.0
+Our coords:  19.9464816667 60.1047833333
+Dest coords:  19.946919 60.104793
+Real angle:  22.0
+Dest angle:  1.2662446181187452
+Real difference:  20.733755381881256
+Smaller than 180. Going,  20.733755381881256
+Distance to actual destination:  24.349814388972106
+
+ Iteration:  13 
+ Mission time:  141
+Current wind:  350
+Wind to Bear diff:  82.60000000000002
+From the side, 3
+True Bearing 72.7
+Our coords:  19.9465066667 60.104784
+Dest coords:  19.946919 60.104793
+Real angle:  17.30000000000001
+Dest angle:  1.2503965813732891
+Real difference:  16.049603418626724
+Smaller than 180. Going,  16.049603418626724
+Distance to actual destination:  22.957307026621194
+
+ Iteration:  14 
+ Mission time:  143
+Current wind:  350
+Wind to Bear diff:  89.60000000000002
+From the side, 3
+True Bearing 79.3
+Our coords:  19.9465303333 60.1047835
+Dest coords:  19.946919 60.104793
+Real angle:  10.699999999999989
+Dest angle:  1.4001753867609819
+Real difference:  9.299824613239007
+Smaller than 180. Going,  9.299824613239007
+Distance to actual destination:  21.644874629224475
+
+ Iteration:  15 
+ Mission time:  145
+Current wind:  350
+Wind to Bear diff:  87.30000000000001
+From the side, 3
+True Bearing 77.1
+Our coords:  19.9465495 60.1047823333
+Dest coords:  19.946919 60.104793
+Real angle:  12.899999999999977
+Dest angle:  1.653551300278141
+Real difference:  11.246448699721837
+Smaller than 180. Going,  11.246448699721837
+Distance to actual destination:  20.587193074713838
+
+ Iteration:  16 
+ Mission time:  147
+Current wind:  350
+Wind to Bear diff:  88.0
+From the side, 3
+True Bearing 78.0
+Our coords:  19.946571 60.1047861667
+Dest coords:  19.946919 60.104793
+Real angle:  12.0
+Dest angle:  1.1249107541282473
+Real difference:  10.875089245871752
+Smaller than 180. Going,  10.875089245871752
+Distance to actual destination:  19.371923771749486
+
+ Iteration:  17 
+ Mission time:  149
+Current wind:  350
+Wind to Bear diff:  87.60000000000002
+From the side, 3
+True Bearing 77.6
+Our coords:  19.946597 60.1047875
+Dest coords:  19.946919 60.104793
+Real angle:  12.399999999999977
+Dest angle:  0.9785594609562603
+Real difference:  11.421440539043717
+Smaller than 180. Going,  11.421440539043717
+Distance to actual destination:  17.92122726860418
+
+ Iteration:  18 
+ Mission time:  151
+Current wind:  350
+Wind to Bear diff:  89.0
+From the side, 3
+True Bearing 79.0
+Our coords:  19.9466231667 60.1047868333
+Dest coords:  19.946919 60.104793
+Real angle:  11.0
+Dest angle:  1.1941682060810423
+Real difference:  9.805831793918959
+Smaller than 180. Going,  9.805831793918959
+Distance to actual destination:  16.469603301090725
+
+ Iteration:  19 
+ Mission time:  153
+Current wind:  350
+Wind to Bear diff:  87.89999999999998
+From the side, 3
+True Bearing 77.9
+Our coords:  19.9466423333 60.1047861667
+Dest coords:  19.946919 60.104793
+Real angle:  12.100000000000023
+Dest angle:  1.414841999794806
+Real difference:  10.685158000205217
+Smaller than 180. Going,  10.685158000205217
+Distance to actual destination:  15.407974580875724
+
+ Iteration:  20 
+ Mission time:  155
+Current wind:  350
+Wind to Bear diff:  93.5
+From the side, 2
+True Bearing 83.5
+Our coords:  19.9466593333 60.1047881667
+Dest coords:  19.946919 60.104793
+Real angle:  6.5
+Dest angle:  1.0663505038921837
+Real difference:  5.433649496107816
+Smaller than 180. Going,  5.433649496107816
+Distance to actual destination:  14.4535900374104
+
+ Iteration:  21 
+ Mission time:  157
+Current wind:  350
+Wind to Bear diff:  94.10000000000002
+From the side, 2
+True Bearing 84.3
+Our coords:  19.9466768333 60.1047891667
+Dest coords:  19.946919 60.104793
+Real angle:  5.699999999999989
+Dest angle:  0.9068694021430853
+Real difference:  4.793130597856903
+Smaller than 180. Going,  4.793130597856903
+Distance to actual destination:  13.476913581612814
+
+ Iteration:  22 
+ Mission time:  159
+Current wind:  350
+Wind to Bear diff:  96.19999999999999
+From the side, 2
+True Bearing 85.9
+Our coords:  19.9466953333 60.1047875
+Dest coords:  19.946919 60.104793
+Real angle:  4.0
+Dest angle:  1.4086285255641209
+Real difference:  2.591371474435879
+Smaller than 180. Going,  2.591371474435879
+Distance to actual destination:  12.456193224890468
+
+ Iteration:  23 
+ Mission time:  161
+Current wind:  350
+Wind to Bear diff:  98.30000000000001
+From the side, 2
+True Bearing 88.2
+Our coords:  19.946718 60.1047875
+Dest coords:  19.946919 60.104793
+Real angle:  1.8000000000000114
+Dest angle:  1.5674038453066177
+Real difference:  0.23259615469339368
+Smaller than 180. Going,  0.23259615469339368
+Distance to actual destination:  11.197091730125317
+
+ Iteration:  24 
+ Mission time:  163
+Current wind:  350
+Wind to Bear diff:  91.60000000000002
+From the side, 2
+True Bearing 81.5
+Our coords:  19.9467356667 60.1047886667
+Dest coords:  19.946919 60.104793
+Real angle:  8.399999999999977
+Dest angle:  1.3540015987449319
+Real difference:  7.045998401255045
+Smaller than 180. Going,  7.045998401255045
+Distance to actual destination:  10.209050844796886
+
+ Iteration:  25 
+ Mission time:  165
+Current wind:  350
+Wind to Bear diff:  87.89999999999998
+From the side, 3
+True Bearing 77.9
+Our coords:  19.9467506667 60.10479
+Dest coords:  19.946919 60.104793
+Real angle:  12.100000000000023
+Dest angle:  1.0210050175523047
+Real difference:  11.078994982447718
+Smaller than 180. Going,  11.078994982447718
+Distance to actual destination:  9.369240824117325
+
+ Iteration:  26 
+ Mission time:  167
+Current wind:  350
+Wind to Bear diff:  83.5
+From the side, 3
+True Bearing 73.8
+Our coords:  19.9467663333 60.1047916667
+Dest coords:  19.946919 60.104793
+Real angle:  16.19999999999999
+Dest angle:  0.5003744799065133
+Real difference:  15.699625520093475
+Smaller than 180. Going,  15.699625520093475
+Distance to actual destination:  8.493145783905186
+
+ Iteration:  27 
+ Mission time:  169
+Current wind:  350
+Wind to Bear diff:  87.89999999999998
+From the side, 3
+True Bearing 77.8
+Our coords:  19.9467855 60.104791
+Dest coords:  19.946919 60.104793
+Real angle:  12.199999999999989
+Dest angle:  0.8582995309107678
+Real difference:  11.34170046908922
+Smaller than 180. Going,  11.34170046908922
+Distance to actual destination:  7.429071455671839
+
+ Iteration:  28 
+ Mission time:  171
+Current wind:  350
+Wind to Bear diff:  76.69999999999999
+From the side, 3
+True Bearing 66.7
+Our coords:  19.946801 60.1047903333
+Dest coords:  19.946919 60.104793
+Real angle:  23.30000000000001
+Dest angle:  1.29461569446549
+Real difference:  22.00538430553452
+Smaller than 180. Going,  22.00538430553452
+Distance to actual destination:  6.570286758963425
+
+ Iteration:  29 
+ Mission time:  173
+Current wind:  350
+Wind to Bear diff:  75.39999999999998
+From the side, 3
+True Bearing 65.3
+Our coords:  19.9468168333 60.1047898333
+Dest coords:  19.946919 60.104793
+Real angle:  24.69999999999999
+Dest angle:  1.7753384875148026
+Real difference:  22.924661512485187
+Smaller than 180. Going,  22.924661512485187
+Distance to actual destination:  5.693804728688047
+
+ Iteration:  30 
+ Mission time:  175
+Current wind:  350
+Wind to Bear diff:  74.10000000000002
+From the side, 3
+True Bearing 64.1
+Our coords:  19.9468326667 60.1047915
+Dest coords:  19.946919 60.104793
+Real angle:  25.899999999999977
+Dest angle:  0.9953867507629524
+Real difference:  24.904613249237023
+Smaller than 180. Going,  24.904613249237023
+Distance to actual destination:  4.805062036789453
+
+
+Success.
+Next point.
+
+
+
+ Iteration:  31 
+ Mission time:  177
+Current wind:  350
+Wind to Bear diff:  78.5
+From the side, 3
+True Bearing 68.9
+Our coords:  19.946849 60.1047918333
+Dest coords:  19.946349 60.104691
+Real angle:  21.100000000000023
+Dest angle:  -168.59828053601248
+Real difference:  189.6982805360125
+Bigger than 180. Going:  170.3017194639875
+Distance to actual destination:  29.995039672015736
+
+ Iteration:  32 
+ Mission time:  179
+Current wind:  350
+Wind to Bear diff:  44.89999999999998
+From the side, 4
+True Bearing 34.9
+Our coords:  19.9468638333 60.1047918333
+Dest coords:  19.946349 60.104691
+Real angle:  55.10000000000002
+Dest angle:  -168.91853834033608
+Real difference:  224.0185383403361
+Bigger than 180. Going:  135.9814616596639
+Distance to actual destination:  30.761616366545226
+
+ Iteration:  33 
+ Mission time:  181
+Current wind:  350
+Wind to Bear diff:  9.399999999999977
+From behind
+True Bearing 359.6
+Our coords:  19.9468738333 60.1047981667
+Dest coords:  19.946349 60.104691
+Real angle:  90.39999999999998
+Dest angle:  -168.45931514995237
+Real difference:  258.85931514995235
+Bigger than 180. Going:  101.14068485004765
+Distance to actual destination:  31.54039110560873
+
+ Iteration:  34 
+ Mission time:  183
+Current wind:  350
+Wind to Bear diff:  30.69999999999999
+From the side, 4
+True Bearing 319.3
+Our coords:  19.9468746667 60.1048081667
+Dest coords:  19.946349 60.104691
+Real angle:  130.7
+Dest angle:  -167.4346489302291
+Real difference:  298.1346489302291
+Bigger than 180. Going:  61.865351069770895
+Distance to actual destination:  32.0211096426501
+
+ Iteration:  35 
+ Mission time:  185
+Current wind:  350
+Wind to Bear diff:  69.80000000000001
+From the side, 3
+True Bearing 280.0
+Our coords:  19.9468596667 60.1048161667
+Dest coords:  19.946349 60.104691
+Real angle:  170.0
+Dest angle:  -166.22805173872382
+Real difference:  336.2280517387238
+Bigger than 180. Going:  23.77194826127618
+Distance to actual destination:  31.643645247330646
+
+ Iteration:  36 
+ Mission time:  187
+Current wind:  350
+Wind to Bear diff:  90.60000000000002
+From the side, 2
+True Bearing 259.3
+Our coords:  19.9468435 60.1048188333
+Dest coords:  19.946349 60.104691
+Real angle:  190.7
+Dest angle:  -165.505766446255
+Real difference:  356.205766446255
+Bigger than 180. Going:  3.7942335537450163
+Distance to actual destination:  30.974456088670173
+
+ Iteration:  37 
+ Mission time:  189
+Current wind:  350
+Wind to Bear diff:  109.1
+From the side, 2
+True Bearing 240.6
+Our coords:  19.9468168333 60.1048143333
+Dest coords:  19.946349 60.104691
+Real angle:  209.4
+Dest angle:  -165.23132478891037
+Real difference:  14.631324788910376
+Smaller than 180. Going,  14.631324788910376
+Distance to actual destination:  29.427687423149266
+
+ Iteration:  38 
+ Mission time:  191
+Current wind:  350
+Wind to Bear diff:  139.7
+From the side, 1
+True Bearing 209.8
+Our coords:  19.946791 60.1048046667
+Dest coords:  19.946349 60.104691
+Real angle:  239.7
+Dest angle:  -165.57806483835338
+Real difference:  45.27806483835337
+Smaller than 180. Going,  45.27806483835337
+Distance to actual destination:  27.655560062155434
+
+ Iteration:  39 
+ Mission time:  193
+Current wind:  350
+Wind to Bear diff:  122.69999999999999
+From the side, 1
+True Bearing 227.4
+Our coords:  19.9467673333 60.1047918333
+Dest coords:  19.946349 60.104691
+Real angle:  222.6
+Dest angle:  -166.44816537734584
+Real difference:  29.04816537734584
+Smaller than 180. Going,  29.04816537734584
+Distance to actual destination:  25.83916967301525
+
+ Iteration:  40 
+ Mission time:  195
+Current wind:  350
+Wind to Bear diff:  124.4
+From the side, 1
+True Bearing 225.5
+Our coords:  19.9467385 60.1047836667
+Dest coords:  19.946349 60.104691
+Real angle:  224.5
+Dest angle:  -166.6174415285524
+Real difference:  31.117441528552405
+Smaller than 180. Going,  31.117441528552405
+Distance to actual destination:  23.99959855257304
+
+ Iteration:  41 
+ Mission time:  197
+Current wind:  350
+Wind to Bear diff:  112.0
+From the side, 2
+True Bearing 238.2
+Our coords:  19.9467096667 60.1047763333
+Dest coords:  19.946349 60.104691
+Real angle:  211.8
+Dest angle:  -166.68867065049406
+Real difference:  18.488670650494072
+Smaller than 180. Going,  18.488670650494072
+Distance to actual destination:  22.200346824448417
+
+ Iteration:  42 
+ Mission time:  199
+Current wind:  350
+Wind to Bear diff:  104.30000000000001
+From the side, 2
+True Bearing 245.8
+Our coords:  19.9466816667 60.104774
+Dest coords:  19.946349 60.104691
+Real angle:  204.2
+Dest angle:  -165.9907778175625
+Real difference:  10.190777817562491
+Smaller than 180. Going,  10.190777817562491
+Distance to actual destination:  20.6861180236501
+
+ Iteration:  43 
+ Mission time:  201
+Current wind:  350
+Wind to Bear diff:  116.4
+From the side, 2
+True Bearing 233.6
+Our coords:  19.9466546667 60.1047708333
+Dest coords:  19.946349 60.104691
+Real angle:  216.4
+Dest angle:  -165.3626018472163
+Real difference:  21.762601847216303
+Smaller than 180. Going,  21.762601847216303
+Distance to actual destination:  19.18827898393497
+
+ Iteration:  44 
+ Mission time:  203
+Current wind:  350
+Wind to Bear diff:  115.69999999999999
+From the side, 2
+True Bearing 234.3
+Our coords:  19.9466341667 60.1047661667
+Dest coords:  19.946349 60.104691
+Real angle:  215.7
+Dest angle:  -165.2333586573138
+Real difference:  20.93335865731379
+Smaller than 180. Going,  20.93335865731379
+Distance to actual destination:  17.937025463927956
+
+ Iteration:  45 
+ Mission time:  205
+Current wind:  350
+Wind to Bear diff:  114.80000000000001
+From the side, 2
+True Bearing 235.3
+Our coords:  19.9466141667 60.104761
+Dest coords:  19.946349 60.104691
+Real angle:  214.7
+Dest angle:  -165.21213215119545
+Real difference:  19.912132151195436
+Smaller than 180. Going,  19.912132151195436
+Distance to actual destination:  16.684492572372438
+
+ Iteration:  46 
+ Mission time:  207
+Current wind:  350
+Wind to Bear diff:  114.0
+From the side, 2
+True Bearing 235.9
+Our coords:  19.946594 60.1047573333
+Dest coords:  19.946349 60.104691
+Real angle:  214.1
+Dest angle:  -164.85047845143666
+Real difference:  18.950478451436652
+Smaller than 180. Going,  18.950478451436652
+Distance to actual destination:  15.502743638882054
+
+ Iteration:  47 
+ Mission time:  209
+Current wind:  350
+Wind to Bear diff:  118.5
+From the side, 2
+True Bearing 231.5
+Our coords:  19.9465715 60.1047535
+Dest coords:  19.946349 60.104691
+Real angle:  218.5
+Dest angle:  -164.31000707124005
+Real difference:  22.81000707124005
+Smaller than 180. Going,  22.81000707124005
+Distance to actual destination:  14.200703898182914
+
+ Iteration:  48 
+ Mission time:  211
+Current wind:  350
+Wind to Bear diff:  122.1
+From the side, 1
+True Bearing 227.8
+Our coords:  19.9465488333 60.1047488333
+Dest coords:  19.946349 60.104691
+Real angle:  222.1
+Dest angle:  -163.85914846714314
+Real difference:  25.959148467143137
+Smaller than 180. Going,  25.959148467143137
+Distance to actual destination:  12.847994076463253
+
+ Iteration:  49 
+ Mission time:  213
+Current wind:  350
+Wind to Bear diff:  121.1
+From the side, 1
+True Bearing 229.2
+Our coords:  19.946526 60.1047415
+Dest coords:  19.946349 60.104691
+Real angle:  221.1
+Dest angle:  -164.07598311993385
+Real difference:  25.175983119933846
+Smaller than 180. Going,  25.175983119933846
+Distance to actual destination:  11.339657167465566
+
+ Iteration:  50 
+ Mission time:  215
+Current wind:  350
+Wind to Bear diff:  122.69999999999999
+From the side, 1
+True Bearing 227.4
+Our coords:  19.946506 60.1047353333
+Dest coords:  19.946349 60.104691
+Real angle:  222.6
+Dest angle:  -164.23150326212135
+Real difference:  26.831503262121345
+Smaller than 180. Going,  26.831503262121345
+Distance to actual destination:  10.032983733059277
+
+ Iteration:  51 
+ Mission time:  217
+Current wind:  350
+Wind to Bear diff:  119.1
+From the side, 2
+True Bearing 230.9
+Our coords:  19.9464875 60.1047295
+Dest coords:  19.946349 60.104691
+Real angle:  219.1
+Dest angle:  -164.46522138646094
+Real difference:  23.565221386460934
+Smaller than 180. Going,  23.565221386460934
+Distance to actual destination:  8.81753070573438
+
+ Iteration:  52 
+ Mission time:  219
+Current wind:  350
+Wind to Bear diff:  121.6
+From the side, 1
+True Bearing 228.4
+Our coords:  19.946475 60.1047235
+Dest coords:  19.946349 60.104691
+Real angle:  221.6
+Dest angle:  -165.5365824951463
+Real difference:  27.136582495146286
+Smaller than 180. Going,  27.136582495146286
+Distance to actual destination:  7.888688112906737
+
+ Iteration:  53 
+ Mission time:  221
+Current wind:  350
+Wind to Bear diff:  121.5
+From the side, 1
+True Bearing 228.6
+Our coords:  19.9464656667 60.1047208333
+Dest coords:  19.946349 60.104691
+Real angle:  221.4
+Dest angle:  -165.65604717465862
+Real difference:  27.05604717465863
+Smaller than 180. Going,  27.05604717465863
+Distance to actual destination:  7.2911277435345205
+
+ Iteration:  54 
+ Mission time:  223
+Current wind:  350
+Wind to Bear diff:  114.0
+From the side, 2
+True Bearing 235.9
+Our coords:  19.9464521667 60.1047186667
+Dest coords:  19.946349 60.104691
+Real angle:  214.1
+Dest angle:  -164.98794495586245
+Real difference:  19.08794495586244
+Smaller than 180. Going,  19.08794495586244
+Distance to actual destination:  6.513981744026673
+
+ Iteration:  55 
+ Mission time:  225
+Current wind:  350
+Wind to Bear diff:  112.1
+From the side, 2
+True Bearing 237.8
+Our coords:  19.9464328333 60.1047161667
+Dest coords:  19.946349 60.104691
+Real angle:  212.2
+Dest angle:  -163.29027888142483
+Real difference:  15.490278881424814
+Smaller than 180. Going,  15.490278881424814
+Distance to actual destination:  5.441192500870554
+
+ Iteration:  56 
+ Mission time:  227
+Current wind:  350
+Wind to Bear diff:  106.6
+From the side, 2
+True Bearing 243.5
+Our coords:  19.9464141667 60.1047128333
+Dest coords:  19.946349 60.104691
+Real angle:  206.5
+Dest angle:  -161.47720946328138
+Real difference:  7.977209463281383
+Smaller than 180. Going,  7.977209463281383
+Distance to actual destination:  4.365369600712843
+
+
+Success.
+Next point.
+
+
+
+ Iteration:  57 
+ Mission time:  229
+Current wind:  350
+Wind to Bear diff:  116.1
+From the side, 2
+True Bearing 233.9
+Our coords:  19.9463928333 60.1047091667
+Dest coords:  19.946919 60.104793
+Real angle:  216.1
+Dest angle:  9.052753810099576
+Real difference:  207.04724618990042
+Bigger than 180. Going:  152.95275381009958
+Distance to actual destination:  30.721501612125554
+
+ Iteration:  58 
+ Mission time:  231
+Current wind:  350
+Wind to Bear diff:  167.8
+In irons
+
+Tacking started
+Moving rudder to 30d.  1
+Wind direction:  530
+Waiting for orientation to align 30d. 
+Bearing:  182.3
+Relative wind angle:  12.300000000000011
+Waiting for orientation to align 30d. 
+Bearing:  165.7
+Relative wind angle:  4.300000000000011
+Waiting for orientation to align 30d. 
+Bearing:  148.9
+Relative wind angle:  21.100000000000023
+Waiting for orientation to align 30d. 
+Bearing:  127.7
+Relative wind angle:  42.30000000000001
+Moving at a 30d angle for:  16 m
+Distance left:  15.259591024713613 m
+Current GPS:  (60.1047003333, 19.9464188333)
+Distance left:  13.206834610750178 m
+Current GPS:  (60.1047018333, 19.9464628333)
+Distance left:  10.859329427940082 m
+Current GPS:  (60.104708, 19.9465033333)
+Distance left:  8.726832705368345 m
+Current GPS:  (60.1047196667, 19.9465345)
+Distance left:  6.900888554599209 m
+Current GPS:  (60.1047316667, 19.946556)
+Distance left:  5.543506677858799 m
+Current GPS:  (60.1047473333, 19.9465713333)
+Distance left:  4.172977435222972 m
+Current GPS:  (60.1047623333, 19.9465831667)
+Tacking Stopped
+True Bearing 22.6
+Our coords:  19.9463821667 60.1047061667
+Dest coords:  19.946919 60.104793
+Real angle:  67.39999999999998
+Dest angle:  9.188068408625481
+Real difference:  58.211931591374494
+Smaller than 180. Going,  58.211931591374494
+Distance to actual destination:  31.388653529036997
+
+ Iteration:  59 
+ Mission time:  266
+Current wind:  350
+Wind to Bear diff:  43.10000000000002
+From the side, 4
+True Bearing 33.5
+Our coords:  19.9465876667 60.1047688333
+Dest coords:  19.946919 60.104793
+Real angle:  56.5
+Dest angle:  4.171637191309535
+Real difference:  52.328362808690464
+Smaller than 180. Going,  52.328362808690464
+Distance to actual destination:  18.625545643451282
+
+ Iteration:  60 
+ Mission time:  268
+Current wind:  350
+Wind to Bear diff:  64.80000000000001
+From the side, 3
+True Bearing 54.8
+Our coords:  19.9465941667 60.1047763333
+Dest coords:  19.946919 60.104793
+Real angle:  35.19999999999999
+Dest angle:  2.9371832203068755
+Real difference:  32.26281677969311
+Smaller than 180. Going,  32.26281677969311
+Distance to actual destination:  18.163516348267965
+
+ Iteration:  61 
+ Mission time:  270
+Current wind:  350
+Wind to Bear diff:  72.89999999999998
+From the side, 3
+True Bearing 62.8
+Our coords:  19.9466058333 60.1047821667
+Dest coords:  19.946919 60.104793
+Real angle:  27.19999999999999
+Dest angle:  1.9812290269055701
+Real difference:  25.21877097309442
+Smaller than 180. Going,  25.21877097309442
+Distance to actual destination:  17.461176291094123
+
+ Iteration:  62 
+ Mission time:  272
+Current wind:  350
+Wind to Bear diff:  80.0
+From the side, 3
+True Bearing 70.0
+Our coords:  19.9466255 60.1047856667
+Dest coords:  19.946919 60.104793
+Real angle:  20.0
+Dest angle:  1.4312767899585745
+Real difference:  18.568723210041426
+Smaller than 180. Going,  18.568723210041426
+Distance to actual destination:  16.3459123238782
+
+ Iteration:  63 
+ Mission time:  274
+Current wind:  350
+Wind to Bear diff:  78.39999999999998
+From the side, 3
+True Bearing 68.3
+Our coords:  19.946645 60.1047888333
+Dest coords:  19.946919 60.104793
+Real angle:  21.600000000000023
+Dest angle:  0.871226002386237
+Real difference:  20.728773997613786
+Smaller than 180. Going,  20.728773997613786
+Distance to actual destination:  15.247890918259309
+
+ Iteration:  64 
+ Mission time:  276
+Current wind:  350
+Wind to Bear diff:  80.10000000000002
+From the side, 3
+True Bearing 70.1
+Our coords:  19.9466618333 60.1047938333
+Dest coords:  19.946919 60.104793
+Real angle:  19.899999999999977
+Dest angle:  -0.18565547541744554
+Real difference:  20.08565547541741
+Smaller than 180. Going,  20.08565547541741
+Distance to actual destination:  14.304796602592262
+
+ Iteration:  65 
+ Mission time:  278
+Current wind:  350
+Wind to Bear diff:  76.0
+From the side, 3
+True Bearing 66.0
+Our coords:  19.9466798333 60.1047993333
+Dest coords:  19.946919 60.104793
+Real angle:  24.0
+Dest angle:  -1.5168774651463388
+Real difference:  25.516877465146365
+Smaller than 180. Going,  25.516877465146365
+Distance to actual destination:  13.321972586646137
+
+ Iteration:  66 
+ Mission time:  280
+Current wind:  350
+Wind to Bear diff:  76.10000000000002
+From the side, 3
+True Bearing 66.2
+Our coords:  19.9467001667 60.1048028333
+Dest coords:  19.946919 60.104793
+Real angle:  23.80000000000001
+Dest angle:  -2.572861825657216
+Real difference:  26.372861825657253
+Smaller than 180. Going,  26.372861825657253
+Distance to actual destination:  12.221462280958438
+
+ Iteration:  67 
+ Mission time:  282
+Current wind:  350
+Wind to Bear diff:  74.39999999999998
+From the side, 3
+True Bearing 64.4
+Our coords:  19.9467166667 60.1048056667
+Dest coords:  19.946919 60.104793
+Real angle:  25.600000000000023
+Dest angle:  -3.582220856577731
+Real difference:  29.18222085657777
+Smaller than 180. Going,  29.18222085657777
+Distance to actual destination:  11.34260750086677
+
+ Iteration:  68 
+ Mission time:  284
+Current wind:  350
+Wind to Bear diff:  74.89999999999998
+From the side, 3
+True Bearing 64.9
+Our coords:  19.9467316667 60.1048075
+Dest coords:  19.946919 60.104793
+Real angle:  25.100000000000023
+Dest angle:  -4.4259916976774205
+Real difference:  29.525991697677455
+Smaller than 180. Going,  29.525991697677455
+Distance to actual destination:  10.544607364863625
+
+ Iteration:  69 
+ Mission time:  286
+Current wind:  350
+Wind to Bear diff:  72.80000000000001
+From the side, 3
+True Bearing 62.8
+Our coords:  19.9467456667 60.10481
+Dest coords:  19.946919 60.104793
+Real angle:  27.19999999999999
+Dest angle:  -5.601480305140321
+Real difference:  32.80148030514033
+Smaller than 180. Going,  32.80148030514033
+Distance to actual destination:  9.825670942457716
+
+ Iteration:  70 
+ Mission time:  288
+Current wind:  350
+Wind to Bear diff:  81.69999999999999
+From the side, 3
+True Bearing 71.9
+Our coords:  19.9467578333 60.1048133333
+Dest coords:  19.946919 60.104793
+Real angle:  18.100000000000023
+Dest angle:  -7.190625736346502
+Real difference:  25.2906257363465
+Smaller than 180. Going,  25.2906257363465
+Distance to actual destination:  9.246454990695149
+
+ Iteration:  71 
+ Mission time:  290
+Current wind:  350
+Wind to Bear diff:  75.0
+From the side, 3
+True Bearing 64.7
+Our coords:  19.9467725 60.1048136667
+Dest coords:  19.946919 60.104793
+Real angle:  25.30000000000001
+Dest angle:  -8.029708423048953
+Real difference:  33.32970842304894
+Smaller than 180. Going,  33.32970842304894
+Distance to actual destination:  8.467894162552232
+
+ Iteration:  72 
+ Mission time:  292
+Current wind:  350
+Wind to Bear diff:  76.80000000000001
+From the side, 3
+True Bearing 66.9
+Our coords:  19.9467866667 60.1048151667
+Dest coords:  19.946919 60.104793
+Real angle:  23.100000000000023
+Dest angle:  -9.50913930533621
+Real difference:  32.609139305336214
+Smaller than 180. Going,  32.609139305336214
+Distance to actual destination:  7.764093897261514
+
+ Iteration:  73 
+ Mission time:  294
+Current wind:  350
+Wind to Bear diff:  72.89999999999998
+From the side, 3
+True Bearing 62.8
+Our coords:  19.9467961667 60.1048176667
+Dest coords:  19.946919 60.104793
+Real angle:  27.19999999999999
+Dest angle:  -11.354794486489423
+Real difference:  38.55479448648941
+Smaller than 180. Going,  38.55479448648941
+Distance to actual destination:  7.3644071767902295
+
+ Iteration:  74 
+ Mission time:  296
+Current wind:  350
+Wind to Bear diff:  80.89999999999998
+From the side, 3
+True Bearing 71.0
+Our coords:  19.9468018333 60.10482
+Dest coords:  19.946919 60.104793
+Real angle:  19.100000000000023
+Dest angle:  -12.976754798803027
+Real difference:  32.07675479880305
+Smaller than 180. Going,  32.07675479880305
+Distance to actual destination:  7.177965946412377
+
+ Iteration:  75 
+ Mission time:  298
+Current wind:  350
+Wind to Bear diff:  78.80000000000001
+From the side, 3
+True Bearing 69.0
+Our coords:  19.9468056667 60.1048243333
+Dest coords:  19.946919 60.104793
+Real angle:  21.0
+Dest angle:  -15.454544888610487
+Real difference:  36.454544888610485
+Smaller than 180. Going,  36.454544888610485
+Distance to actual destination:  7.20604577615015
+
+ Iteration:  76 
+ Mission time:  300
+Current wind:  350
+Wind to Bear diff:  88.10000000000002
+From the side, 3
+True Bearing 77.9
+Our coords:  19.9468148333 60.1048251667
+Dest coords:  19.946919 60.104793
+Real angle:  12.100000000000023
+Dest angle:  -17.160699608906363
+Real difference:  29.260699608906407
+Smaller than 180. Going,  29.260699608906407
+Distance to actual destination:  6.812889382804567
+
+ Iteration:  77 
+ Mission time:  302
+Current wind:  350
+Wind to Bear diff:  80.10000000000002
+From the side, 3
+True Bearing 70.1
+Our coords:  19.9468215 60.1048268333
+Dest coords:  19.946919 60.104793
+Real angle:  19.899999999999977
+Dest angle:  -19.137193775241574
+Real difference:  39.037193775241576
+Smaller than 180. Going,  39.037193775241576
+Distance to actual destination:  6.604631883020236
+
+ Iteration:  78 
+ Mission time:  304
+Current wind:  350
+Wind to Bear diff:  82.19999999999999
+From the side, 3
+True Bearing 72.3
+Our coords:  19.946824 60.1048295
+Dest coords:  19.946919 60.104793
+Real angle:  17.69999999999999
+Dest angle:  -21.017300874520433
+Real difference:  38.71730087452045
+Smaller than 180. Going,  38.71730087452045
+Distance to actual destination:  6.667860447247101
+
+ Iteration:  79 
+ Mission time:  306
+Current wind:  350
+Wind to Bear diff:  79.39999999999998
+From the side, 3
+True Bearing 69.2
+Our coords:  19.9468275 60.1048318333
+Dest coords:  19.946919 60.104793
+Real angle:  20.69999999999999
+Dest angle:  -22.99673912136201
+Real difference:  43.696739121361986
+Smaller than 180. Going,  43.696739121361986
+Distance to actual destination:  6.680021752712753
+
+ Iteration:  80 
+ Mission time:  308
+Current wind:  350
+Wind to Bear diff:  72.0
+From the side, 3
+True Bearing 61.8
+Our coords:  19.94683 60.104833
+Dest coords:  19.946919 60.104793
+Real angle:  28.0
+Dest angle:  -24.20097158970469
+Real difference:  52.20097158970469
+Smaller than 180. Going,  52.20097158970469
+Distance to actual destination:  6.660948202509037
+
+ Iteration:  81 
+ Mission time:  310
+Current wind:  350
+Wind to Bear diff:  86.80000000000001
+From the side, 3
+True Bearing 76.9
+Our coords:  19.9468385 60.1048341667
+Dest coords:  19.946919 60.104793
+Real angle:  13.100000000000023
+Dest angle:  -27.08463824306423
+Real difference:  40.18463824306423
+Smaller than 180. Going,  40.18463824306423
+Distance to actual destination:  6.409843083905678
+
+ Iteration:  82 
+ Mission time:  312
+Current wind:  350
+Wind to Bear diff:  87.39999999999998
+From the side, 3
+True Bearing 77.6
+Our coords:  19.9468433333 60.1048366667
+Dest coords:  19.946919 60.104793
+Real angle:  12.399999999999977
+Dest angle:  -29.988930429665672
+Real difference:  42.38893042966566
+Smaller than 180. Going,  42.38893042966566
+Distance to actual destination:  6.432991125253908
+
+ Iteration:  83 
+ Mission time:  314
+Current wind:  350
+Wind to Bear diff:  80.80000000000001
+From the side, 3
+True Bearing 70.8
+Our coords:  19.9468456667 60.1048396667
+Dest coords:  19.946919 60.104793
+Real angle:  19.19999999999999
+Dest angle:  -32.47122262409392
+Real difference:  51.6712226240939
+Smaller than 180. Going,  51.6712226240939
+Distance to actual destination:  6.608451102318051
+
+ Iteration:  84 
+ Mission time:  316
+Current wind:  350
+Wind to Bear diff:  82.19999999999999
+From the side, 3
+True Bearing 72.6
+Our coords:  19.9468521667 60.1048426667
+Dest coords:  19.946919 60.104793
+Real angle:  17.399999999999977
+Dest angle:  -36.617628095056965
+Real difference:  54.01762809505692
+Smaller than 180. Going,  54.01762809505692
+Distance to actual destination:  6.666344977442222
+
+ Iteration:  85 
+ Mission time:  318
+Current wind:  350
+Wind to Bear diff:  79.80000000000001
+From the side, 3
+True Bearing 69.8
+Our coords:  19.9468546667 60.1048453333
+Dest coords:  19.946919 60.104793
+Real angle:  20.19999999999999
+Dest angle:  -39.12736838407148
+Real difference:  59.32736838407146
+Smaller than 180. Going,  59.32736838407146
+Distance to actual destination:  6.8411892534496115
+
+ Iteration:  86 
+ Mission time:  320
+Current wind:  350
+Wind to Bear diff:  76.69999999999999
+From the side, 3
+True Bearing 66.7
+Our coords:  19.946853 60.1048451667
+Dest coords:  19.946919 60.104793
+Real angle:  23.30000000000001
+Dest angle:  -38.323004508737235
+Real difference:  61.62300450873727
+Smaller than 180. Going,  61.62300450873727
+Distance to actual destination:  6.874434721399844
+
+ Iteration:  87 
+ Mission time:  322
+Current wind:  350
+Wind to Bear diff:  74.89999999999998
+From the side, 3
+True Bearing 64.9
+Our coords:  19.9468536667 60.1048473333
+Dest coords:  19.946919 60.104793
+Real angle:  25.100000000000023
+Dest angle:  -39.74801342576811
+Real difference:  64.84801342576816
+Smaller than 180. Going,  64.84801342576816
+Distance to actual destination:  7.06053668320623
+
+ Iteration:  88 
+ Mission time:  324
+Current wind:  350
+Wind to Bear diff:  82.5
+From the side, 3
+True Bearing 72.6
+Our coords:  19.9468513333 60.1048515
+Dest coords:  19.946919 60.104793
+Real angle:  17.5
+Dest angle:  -40.844450476040365
+Real difference:  58.34445047604038
+Smaller than 180. Going,  58.34445047604038
+Distance to actual destination:  7.526439175282345
+
+ Iteration:  89 
+ Mission time:  326
+Current wind:  350
+Wind to Bear diff:  83.39999999999998
+From the side, 3
+True Bearing 73.3
+Our coords:  19.9468531667 60.1048555
+Dest coords:  19.946919 60.104793
+Real angle:  16.69999999999999
+Dest angle:  -43.51214695509852
+Real difference:  60.21214695509849
+Smaller than 180. Going,  60.21214695509849
+Distance to actual destination:  7.86752490915275
+
+ Iteration:  90 
+ Mission time:  328
+Current wind:  350
+Wind to Bear diff:  82.30000000000001
+From the side, 3
+True Bearing 72.1
+Our coords:  19.9468603333 60.1048595
+Dest coords:  19.946919 60.104793
+Real angle:  17.899999999999977
+Dest angle:  -48.581067936824056
+Real difference:  66.48106793682405
+Smaller than 180. Going,  66.48106793682405
+Distance to actual destination:  8.095834904890719
+
+ Iteration:  91 
+ Mission time:  330
+Current wind:  350
+Wind to Bear diff:  82.39999999999998
+From the side, 3
+True Bearing 72.5
+Our coords:  19.9468636667 60.1048611667
+Dest coords:  19.946919 60.104793
+Real angle:  17.5
+Dest angle:  -50.93255098103849
+Real difference:  68.4325509810385
+Smaller than 180. Going,  68.4325509810385
+Distance to actual destination:  8.194688543897366
+
+ Iteration:  92 
+ Mission time:  332
+Current wind:  350
+Wind to Bear diff:  92.10000000000002
+From the side, 2
+True Bearing 82.3
+Our coords:  19.946868 60.1048651667
+Dest coords:  19.946919 60.104793
+Real angle:  7.699999999999989
+Dest angle:  -54.75126073977356
+Real difference:  62.451260739773545
+Smaller than 180. Going,  62.451260739773545
+Distance to actual destination:  8.526147408798797
+
+ Iteration:  93 
+ Mission time:  334
+Current wind:  350
+Wind to Bear diff:  82.5
+From the side, 3
+True Bearing 72.5
+Our coords:  19.9468751667 60.1048658333
+Dest coords:  19.946919 60.104793
+Real angle:  17.5
+Dest angle:  -58.95918893387011
+Real difference:  76.45918893387011
+Smaller than 180. Going,  76.45918893387011
+Distance to actual destination:  8.473028827141167
+
+ Iteration:  94 
+ Mission time:  336
+Current wind:  350
+Wind to Bear diff:  80.19999999999999
+From the side, 3
+True Bearing 70.1
+Our coords:  19.9468788333 60.1048678333
+Dest coords:  19.946919 60.104793
+Real angle:  19.899999999999977
+Dest angle:  -61.77536443086755
+Real difference:  81.67536443086755
+Smaller than 180. Going,  81.67536443086755
+Distance to actual destination:  8.631644906760023
+
+ Iteration:  95 
+ Mission time:  338
+Current wind:  350
+Wind to Bear diff:  81.69999999999999
+From the side, 3
+True Bearing 71.7
+Our coords:  19.9468791667 60.1048701667
+Dest coords:  19.946919 60.104793
+Real angle:  18.30000000000001
+Dest angle:  -62.69730531608782
+Real difference:  80.99730531608782
+Smaller than 180. Going,  80.99730531608782
+Distance to actual destination:  8.878367416732964
+
+ Iteration:  96 
+ Mission time:  340
+Current wind:  350
+Wind to Bear diff:  75.0
+From the side, 3
+True Bearing 65.0
+Our coords:  19.946881 60.1048711667
+Dest coords:  19.946919 60.104793
+Real angle:  25.0
+Dest angle:  -64.07373568006949
+Real difference:  89.07373568006949
+Smaller than 180. Going,  89.07373568006949
+Distance to actual destination:  8.961701479976744
+
+ Iteration:  97 
+ Mission time:  342
+Current wind:  350
+Wind to Bear diff:  78.80000000000001
+From the side, 3
+True Bearing 68.8
+Our coords:  19.9468825 60.1048748333
+Dest coords:  19.946919 60.104793
+Real angle:  21.19999999999999
+Dest angle:  -65.96175725869303
+Real difference:  87.161757258693
+Smaller than 180. Going,  87.161757258693
+Distance to actual destination:  9.340693729720918
+
+ Iteration:  98 
+ Mission time:  344
+Current wind:  350
+Wind to Bear diff:  90.69999999999999
+From the side, 2
+True Bearing 80.7
+Our coords:  19.9468861667 60.104875
+Dest coords:  19.946919 60.104793
+Real angle:  9.300000000000011
+Dest angle:  -68.17853498067653
+Real difference:  77.47853498067656
+Smaller than 180. Going,  77.47853498067656
+Distance to actual destination:  9.31670615528776
+
+ Iteration:  99 
+ Mission time:  346
+Current wind:  350
+Wind to Bear diff:  72.10000000000002
+From the side, 3
+True Bearing 62.1
+Our coords:  19.9468876667 60.104877
+Dest coords:  19.946919 60.104793
+Real angle:  27.899999999999977
+Dest angle:  -69.5437061957437
+Real difference:  97.44370619574369
+Smaller than 180. Going,  97.44370619574369
+Distance to actual destination:  9.519683163562277
+
+ Iteration:  100 
+ Mission time:  348
+Current wind:  350
+Wind to Bear diff:  63.5
+From the side, 3
+True Bearing 53.5
+Our coords:  19.9468881667 60.1048793333
+Dest coords:  19.946919 60.104793
+Real angle:  36.5
+Dest angle:  -70.34618855258542
+Real difference:  106.84618855258543
+Smaller than 180. Going,  106.84618855258543
+Distance to actual destination:  9.770447321306102
+
+ Iteration:  101 
+ Mission time:  350
+Current wind:  350
+Wind to Bear diff:  64.39999999999998
+From the side, 3
+True Bearing 54.4
+Our coords:  19.9468881667 60.1048811667
+Dest coords:  19.946919 60.104793
+Real angle:  35.60000000000002
+Dest angle:  -70.72445455303456
+Real difference:  106.32445455303457
+Smaller than 180. Going,  106.32445455303457
+Distance to actual destination:  9.971606736906434
+
+ Iteration:  102 
+ Mission time:  352
+Current wind:  350
+Wind to Bear diff:  75.0
+From the side, 3
+True Bearing 65.3
+Our coords:  19.9468893333 60.1048846667
+Dest coords:  19.946919 60.104793
+Real angle:  24.69999999999999
+Dest angle:  -72.06652040249236
+Real difference:  96.76652040249235
+Smaller than 180. Going,  96.76652040249235
+Distance to actual destination:  10.34541360522064
+
+ Iteration:  103 
+ Mission time:  354
+Current wind:  350
+Wind to Bear diff:  85.5
+From the side, 3
+True Bearing 75.5
+Our coords:  19.9468886667 60.1048853333
+Dest coords:  19.946919 60.104793
+Real angle:  14.5
+Dest angle:  -71.81363386471612
+Real difference:  86.31363386471611
+Smaller than 180. Going,  86.31363386471611
+Distance to actual destination:  10.424675017462754
+
+ Iteration:  104 
+ Mission time:  356
+Current wind:  350
+Wind to Bear diff:  84.89999999999998
+From the side, 3
+True Bearing 75.1
+Our coords:  19.9468865 60.1048896667
+Dest coords:  19.946919 60.104793
+Real angle:  14.899999999999977
+Dest angle:  -71.41700636406519
+Real difference:  86.31700636406515
+Smaller than 180. Going,  86.31700636406515
+Distance to actual destination:  10.920693376561422
+
+ Iteration:  105 
+ Mission time:  358
+Current wind:  350
+Wind to Bear diff:  81.30000000000001
+From the side, 3
+True Bearing 71.3
+Our coords:  19.9468878333 60.1048915
+Dest coords:  19.946919 60.104793
+Real angle:  18.69999999999999
+Dest angle:  -72.44194129296676
+Real difference:  91.14194129296675
+Smaller than 180. Going,  91.14194129296675
+Distance to actual destination:  11.110369105367793
+
+ Iteration:  106 
+ Mission time:  360
+Current wind:  350
+Wind to Bear diff:  83.5
+From the side, 3
+True Bearing 73.5
+Our coords:  19.9468881667 60.1048931667
+Dest coords:  19.946919 60.104793
+Real angle:  16.5
+Dest angle:  -72.89059489750156
+Real difference:  89.39059489750156
+Smaller than 180. Going,  89.39059489750156
+Distance to actual destination:  11.290993904655448
+
+ Iteration:  107 
+ Mission time:  362
+Current wind:  350
+Wind to Bear diff:  84.69999999999999
+From the side, 3
+True Bearing 74.7
+Our coords:  19.9468871667 60.1048971667
+Dest coords:  19.946919 60.104793
+Real angle:  15.300000000000011
+Dest angle:  -73.00686959898317
+Real difference:  88.30686959898316
+Smaller than 180. Going,  88.30686959898316
+Distance to actual destination:  11.73993483687903
+
+ Iteration:  108 
+ Mission time:  364
+Current wind:  350
+Wind to Bear diff:  80.0
+From the side, 3
+True Bearing 70.2
+Our coords:  19.946887 60.1049003333
+Dest coords:  19.946919 60.104793
+Real angle:  19.80000000000001
+Dest angle:  -73.39874814057457
+Real difference:  93.1987481405746
+Smaller than 180. Going,  93.1987481405746
+Distance to actual destination:  12.09018145277685
+
+ Iteration:  109 
+ Mission time:  366
+Current wind:  350
+Wind to Bear diff:  75.80000000000001
+From the side, 3
+True Bearing 65.8
+Our coords:  19.9468851667 60.1049025
+Dest coords:  19.946919 60.104793
+Real angle:  24.19999999999999
+Dest angle:  -72.82990180444705
+Real difference:  97.02990180444704
+Smaller than 180. Going,  97.02990180444704
+Distance to actual destination:  12.344137609105701
+
+ Iteration:  110 
+ Mission time:  368
+Current wind:  350
+Wind to Bear diff:  77.89999999999998
+From the side, 3
+True Bearing 68.0
+Our coords:  19.9468828333 60.1049031667
+Dest coords:  19.946919 60.104793
+Real angle:  22.0
+Dest angle:  -71.82547423122945
+Real difference:  93.82547423122946
+Smaller than 180. Going,  93.82547423122946
+Distance to actual destination:  12.437886225954124
+
+ Iteration:  111 
+ Mission time:  370
+Current wind:  350
+Wind to Bear diff:  83.69999999999999
+From the side, 3
+True Bearing 73.8
+Our coords:  19.9468798333 60.1049061667
+Dest coords:  19.946919 60.104793
+Real angle:  16.19999999999999
+Dest angle:  -70.90939640673236
+Real difference:  87.10939640673234
+Smaller than 180. Going,  87.10939640673234
+Distance to actual destination:  12.795195344710825
+
+ Iteration:  112 
+ Mission time:  372
+Current wind:  350
+Wind to Bear diff:  80.10000000000002
+From the side, 3
+True Bearing 70.3
+Our coords:  19.946878 60.1049093333
+Dest coords:  19.946919 60.104793
+Real angle:  19.69999999999999
+Dest angle:  -70.58572637615161
+Real difference:  90.28572637615162
+Smaller than 180. Going,  90.28572637615162
+Distance to actual destination:  13.160272317715938
+
+ Iteration:  113 
+ Mission time:  374
+Current wind:  350
+Wind to Bear diff:  71.0
+From the side, 3
+True Bearing 61.1
+Our coords:  19.9468773333 60.1049116667
+Dest coords:  19.946919 60.104793
+Real angle:  28.899999999999977
+Dest angle:  -70.65261289088487
+Real difference:  99.55261289088486
+Smaller than 180. Going,  99.55261289088486
+Distance to actual destination:  13.422741710662473
+
+ Iteration:  114 
+ Mission time:  376
+Current wind:  350
+Wind to Bear diff:  61.89999999999998
+From the side, 3
+True Bearing 52.0
+Our coords:  19.9468735 60.1049145
+Dest coords:  19.946919 60.104793
+Real angle:  38.0
+Dest angle:  -69.46979861128717
+Real difference:  107.46979861128716
+Smaller than 180. Going,  107.46979861128716
+Distance to actual destination:  13.771363933562437
+
+ Iteration:  115 
+ Mission time:  378
+Current wind:  350
+Wind to Bear diff:  67.60000000000002
+From the side, 3
+True Bearing 57.6
+Our coords:  19.9468695 60.1049175
+Dest coords:  19.946919 60.104793
+Real angle:  32.39999999999998
+Dest angle:  -68.31770838532626
+Real difference:  100.7177083853262
+Smaller than 180. Going,  100.7177083853262
+Distance to actual destination:  14.14167708312066
+
+ Iteration:  116 
+ Mission time:  380
+Current wind:  350
+Wind to Bear diff:  73.19999999999999
+From the side, 3
+True Bearing 63.0
+Our coords:  19.9468703333 60.104917
+Dest coords:  19.946919 60.104793
+Real angle:  27.0
+Dest angle:  -68.57131396911035
+Real difference:  95.57131396911035
+Smaller than 180. Going,  95.57131396911035
+Distance to actual destination:  14.078054237790454
+
+ Iteration:  117 
+ Mission time:  382
+Current wind:  350
+Wind to Bear diff:  67.89999999999998
+From the side, 3
+True Bearing 57.9
+Our coords:  19.9468683333 60.1049185
+Dest coords:  19.946919 60.104793
+Real angle:  32.10000000000002
+Dest angle:  -68.015147705399
+Real difference:  100.11514770539901
+Smaller than 180. Going,  100.11514770539901
+Distance to actual destination:  14.263655827490313
+
+ Iteration:  118 
+ Mission time:  384
+Current wind:  350
+Wind to Bear diff:  81.0
+From the side, 3
+True Bearing 71.2
+Our coords:  19.9468691667 60.1049205
+Dest coords:  19.946919 60.104793
+Real angle:  18.80000000000001
+Dest angle:  -68.65198592372172
+Real difference:  87.45198592372174
+Smaller than 180. Going,  87.45198592372174
+Distance to actual destination:  14.47320847377749
+
+ Iteration:  119 
+ Mission time:  386
+Current wind:  350
+Wind to Bear diff:  74.30000000000001
+From the side, 3
+True Bearing 64.3
+Our coords:  19.946869 60.1049233333
+Dest coords:  19.946919 60.104793
+Real angle:  25.69999999999999
+Dest angle:  -69.01159753608805
+Real difference:  94.71159753608805
+Smaller than 180. Going,  94.71159753608805
+Distance to actual destination:  14.78489958285854
+
+ Iteration:  120 
+ Mission time:  388
+Current wind:  350
+Wind to Bear diff:  74.80000000000001
+From the side, 3
+True Bearing 64.9
+Our coords:  19.9468683333 60.1049253333
+Dest coords:  19.946919 60.104793
+Real angle:  25.19999999999999
+Dest angle:  -69.04956185980643
+Real difference:  94.24956185980642
+Smaller than 180. Going,  94.24956185980642
+Distance to actual destination:  15.010726666944972
+
+ Iteration:  121 
+ Mission time:  390
+Current wind:  350
+Wind to Bear diff:  60.39999999999998
+From the side, 3
+True Bearing 50.3
+Our coords:  19.9468563333 60.1049276667
+Dest coords:  19.946919 60.104793
+Real angle:  39.69999999999999
+Dest angle:  -65.04524319252803
+Real difference:  104.745243192528
+Smaller than 180. Going,  104.745243192528
+Distance to actual destination:  15.40335266493481
+
+ Iteration:  122 
+ Mission time:  392
+Current wind:  350
+Wind to Bear diff:  63.39999999999998
+From the side, 3
+True Bearing 53.4
+Our coords:  19.9468418333 60.104922
+Dest coords:  19.946919 60.104793
+Real angle:  36.60000000000002
+Dest angle:  -59.11249615388359
+Real difference:  95.71249615388359
+Smaller than 180. Going,  95.71249615388359
+Distance to actual destination:  14.999662498061484
+
+ Iteration:  123 
+ Mission time:  394
+Current wind:  350
+Wind to Bear diff:  44.60000000000002
+From the side, 4
+True Bearing 34.9
+Our coords:  19.9468278333 60.1049146667
+Dest coords:  19.946919 60.104793
+Real angle:  55.10000000000002
+Dest angle:  -53.155224049036654
+Real difference:  108.25522404903666
+Smaller than 180. Going,  108.25522404903666
+Distance to actual destination:  14.472849669168873
+
+ Iteration:  124 
+ Mission time:  396
+Current wind:  350
+Wind to Bear diff:  84.30000000000001
+From the side, 3
+True Bearing 74.3
+Our coords:  19.9468266667 60.1049168333
+Dest coords:  19.946919 60.104793
+Real angle:  15.699999999999989
+Dest angle:  -53.29083926960446
+Real difference:  68.99083926960446
+Smaller than 180. Going,  68.99083926960446
+Distance to actual destination:  14.721692531224685
+
+ Iteration:  125 
+ Mission time:  398
+Current wind:  350
+Wind to Bear diff:  86.5
+From the side, 3
+True Bearing 76.4
+Our coords:  19.946833 60.1049181667
+Dest coords:  19.946919 60.104793
+Real angle:  13.600000000000023
+Dest angle:  -55.50767670137015
+Real difference:  69.10767670137017
+Smaller than 180. Going,  69.10767670137017
+Distance to actual destination:  14.742969586779209
+
+ Iteration:  126 
+ Mission time:  400
+Current wind:  350
+Wind to Bear diff:  98.10000000000002
+From the side, 2
+True Bearing 88.1
+Our coords:  19.9468415 60.104921
+Dest coords:  19.946919 60.104793
+Real angle:  1.8999999999999773
+Dest angle:  -58.80640489696636
+Real difference:  60.70640489696632
+Smaller than 180. Going,  60.70640489696632
+Distance to actual destination:  14.898295369488663
+
+ Iteration:  127 
+ Mission time:  402
+Current wind:  350
+Wind to Bear diff:  89.0
+From the side, 3
+True Bearing 78.7
+Our coords:  19.9468531667 60.1049225
+Dest coords:  19.946919 60.104793
+Real angle:  11.100000000000023
+Dest angle:  -63.05279836175858
+Real difference:  74.15279836175858
+Smaller than 180. Going,  74.15279836175858
+Distance to actual destination:  14.885562429534394
+
+ Iteration:  128 
+ Mission time:  404
+Current wind:  350
+Wind to Bear diff:  74.69999999999999
+From the side, 3
+True Bearing 64.8
+Our coords:  19.9468536667 60.1049243333
+Dest coords:  19.946919 60.104793
+Real angle:  25.19999999999999
+Dest angle:  -63.551409356589524
+Real difference:  88.75140935658953
+Smaller than 180. Going,  88.75140935658953
+Distance to actual destination:  15.076896913411199
+
+ Iteration:  129 
+ Mission time:  406
+Current wind:  350
+Wind to Bear diff:  63.30000000000001
+From the side, 3
+True Bearing 53.2
+Our coords:  19.946842 60.1049226667
+Dest coords:  19.946919 60.104793
+Real angle:  36.80000000000001
+Dest angle:  -59.29688094627103
+Real difference:  96.09688094627103
+Smaller than 180. Going,  96.09688094627103
+Distance to actual destination:  15.068212828166919
+
+ Iteration:  130 
+ Mission time:  408
+Current wind:  350
+Wind to Bear diff:  61.0
+From the side, 3
+True Bearing 50.9
+Our coords:  19.9468188333 60.1049181667
+Dest coords:  19.946919 60.104793
+Real angle:  39.10000000000002
+Dest angle:  -51.330887115180616
+Real difference:  90.43088711518067
+Smaller than 180. Going,  90.43088711518067
+Distance to actual destination:  15.017158494074135
+
+ Iteration:  131 
+ Mission time:  410
+Current wind:  350
+Wind to Bear diff:  68.60000000000002
+From the side, 3
+True Bearing 58.5
+Our coords:  19.946793 60.1049133333
+Dest coords:  19.946919 60.104793
+Real angle:  31.5
+Dest angle:  -43.68218897001218
+Real difference:  75.18218897001219
+Smaller than 180. Going,  75.18218897001219
+Distance to actual destination:  15.128202890322639
+
+ Iteration:  132 
+ Mission time:  412
+Current wind:  350
+Wind to Bear diff:  56.10000000000002
+From the side, 4
+True Bearing 46.3
+Our coords:  19.9467688333 60.1049075
+Dest coords:  19.946919 60.104793
+Real angle:  43.69999999999999
+Dest angle:  -37.325011698975075
+Real difference:  81.02501169897505
+Smaller than 180. Going,  81.02501169897505
+Distance to actual destination:  15.24819970079219
+
+ Iteration:  133 
+ Mission time:  414
+Current wind:  350
+Wind to Bear diff:  69.5
+From the side, 3
+True Bearing 59.5
+Our coords:  19.9467468333 60.1049021667
+Dest coords:  19.946919 60.104793
+Real angle:  30.5
+Dest angle:  -32.377786046986216
+Real difference:  62.877786046986216
+Smaller than 180. Going,  62.877786046986216
+Distance to actual destination:  15.480327317019205
+
+ Iteration:  134 
+ Mission time:  416
+Current wind:  350
+Wind to Bear diff:  78.5
+From the side, 3
+True Bearing 68.5
+Our coords:  19.9467331667 60.1049
+Dest coords:  19.946919 60.104793
+Real angle:  21.5
+Dest angle:  -29.932685753097044
+Real difference:  51.43268575309702
+Smaller than 180. Going,  51.43268575309702
+Distance to actual destination:  15.778601437121527
+
+ Iteration:  135 
+ Mission time:  418
+Current wind:  350
+Wind to Bear diff:  80.19999999999999
+From the side, 3
+True Bearing 70.2
+Our coords:  19.9467248333 60.1048995
+Dest coords:  19.946919 60.104793
+Real angle:  19.80000000000001
+Dest angle:  -28.74466966443408
+Real difference:  48.54466966443408
+Smaller than 180. Going,  48.54466966443408
+Distance to actual destination:  16.044836392536006
+
+ Iteration:  136 
+ Mission time:  420
+Current wind:  350
+Wind to Bear diff:  90.39999999999998
+From the side, 2
+True Bearing 80.2
+Our coords:  19.9467275 60.1049025
+Dest coords:  19.946919 60.104793
+Real angle:  9.699999999999989
+Dest angle:  -29.76098919086214
+Real difference:  39.46098919086211
+Smaller than 180. Going,  39.46098919086211
+Distance to actual destination:  16.19563049800324
+
+ Iteration:  137 
+ Mission time:  422
+Current wind:  350
+Wind to Bear diff:  86.19999999999999
+From the side, 3
+True Bearing 75.9
+Our coords:  19.9467338333 60.1049046667
+Dest coords:  19.946919 60.104793
+Real angle:  14.100000000000023
+Dest angle:  -31.092513878477746
+Real difference:  45.19251387847777
+Smaller than 180. Going,  45.19251387847777
+Distance to actual destination:  16.151348303137162
+
+ Iteration:  138 
+ Mission time:  424
+Current wind:  350
+Wind to Bear diff:  72.5
+From the side, 3
+True Bearing 62.6
+Our coords:  19.9467103333 60.1049025
+Dest coords:  19.946919 60.104793
+Real angle:  27.399999999999977
+Dest angle:  -27.688705397271086
+Real difference:  55.08870539727104
+Smaller than 180. Going,  55.08870539727104
+Distance to actual destination:  16.839017475048067
+
+ Iteration:  139 
+ Mission time:  426
+Current wind:  350
+Wind to Bear diff:  98.69999999999999
+From the side, 2
+True Bearing 88.8
+Our coords:  19.9467101667 60.1049025
+Dest coords:  19.946919 60.104793
+Real angle:  1.1999999999999886
+Dest angle:  -27.669895072183273
+Real difference:  28.869895072183283
+Smaller than 180. Going,  28.869895072183283
+Distance to actual destination:  16.845406234768543
+
+ Iteration:  140 
+ Mission time:  428
+Current wind:  350
+Wind to Bear diff:  100.0
+From the side, 2
+True Bearing 90.0
+Our coords:  19.9467241667 60.1049038333
+Dest coords:  19.946919 60.104793
+Real angle:  0.0
+Dest angle:  -29.633911593970463
+Real difference:  29.63391159397048
+Smaller than 180. Going,  29.63391159397048
+Distance to actual destination:  16.429526170504566
+
+ Iteration:  141 
+ Mission time:  430
+Current wind:  350
+Wind to Bear diff:  73.80000000000001
+From the side, 3
+True Bearing 63.8
+Our coords:  19.9467293333 60.1049051667
+Dest coords:  19.946919 60.104793
+Real angle:  26.19999999999999
+Dest angle:  -30.599580647778577
+Real difference:  56.799580647778555
+Smaller than 180. Going,  56.799580647778555
+Distance to actual destination:  16.354632811233802
+
+ Iteration:  142 
+ Mission time:  432
+Current wind:  350
+Wind to Bear diff:  58.19999999999999
+From the side, 4
+True Bearing 48.3
+Our coords:  19.9467096667 60.1049015
+Dest coords:  19.946919 60.104793
+Real angle:  41.69999999999999
+Dest angle:  -27.39825758061023
+Real difference:  69.09825758061021
+Smaller than 180. Going,  69.09825758061021
+Distance to actual destination:  16.78417574102961
+
+ Iteration:  143 
+ Mission time:  434
+Current wind:  350
+Wind to Bear diff:  71.5
+From the side, 3
+True Bearing 61.5
+Our coords:  19.9466871667 60.104897
+Dest coords:  19.946919 60.104793
+Real angle:  28.5
+Dest angle:  -24.160918199620042
+Real difference:  52.66091819962003
+Smaller than 180. Going,  52.66091819962003
+Distance to actual destination:  17.336376123514082
+
+ Iteration:  144 
+ Mission time:  436
+Current wind:  350
+Wind to Bear diff:  74.0
+From the side, 3
+True Bearing 64.4
+Our coords:  19.9466496667 60.1048891667
+Dest coords:  19.946919 60.104793
+Real angle:  25.600000000000023
+Dest angle:  -19.64934039119609
+Real difference:  45.24934039119614
+Smaller than 180. Going,  45.24934039119614
+Distance to actual destination:  18.418298702565085
+
+ Iteration:  145 
+ Mission time:  438
+Current wind:  350
+Wind to Bear diff:  80.80000000000001
+From the side, 3
+True Bearing 70.5
+Our coords:  19.9466303333 60.1048855
+Dest coords:  19.946919 60.104793
+Real angle:  19.5
+Dest angle:  -17.767472797461604
+Real difference:  37.26747279746161
+Smaller than 180. Going,  37.26747279746161
+Distance to actual destination:  19.079420934738845
+
+ Iteration:  146 
+ Mission time:  440
+Current wind:  350
+Wind to Bear diff:  64.89999999999998
+From the side, 3
+True Bearing 54.9
+Our coords:  19.9466041667 60.1048806667
+Dest coords:  19.946919 60.104793
+Real angle:  35.10000000000002
+Dest angle:  -15.56009228053413
+Real difference:  50.66009228053417
+Smaller than 180. Going,  50.66009228053417
+Distance to actual destination:  20.051767991912097
+
+ Iteration:  147 
+ Mission time:  442
+Current wind:  350
+Wind to Bear diff:  67.0
+From the side, 3
+True Bearing 57.1
+Our coords:  19.9465768333 60.1048761667
+Dest coords:  19.946919 60.104793
+Real angle:  33.0
+Dest angle:  -13.661340693291008
+Real difference:  46.66134069329098
+Smaller than 180. Going,  46.66134069329098
+Distance to actual destination:  21.16819122542667
+
+ Iteration:  148 
+ Mission time:  444
+Current wind:  350
+Wind to Bear diff:  79.60000000000002
+From the side, 3
+True Bearing 69.4
+Our coords:  19.946558 60.1048741667
+Dest coords:  19.946919 60.104793
+Real angle:  20.600000000000023
+Dest angle:  -12.671576019657946
+Real difference:  33.27157601965797
+Smaller than 180. Going,  33.27157601965797
+Distance to actual destination:  22.022391164112623
+
+ Iteration:  149 
+ Mission time:  446
+Current wind:  350
+Wind to Bear diff:  73.69999999999999
+From the side, 3
+True Bearing 63.8
+Our coords:  19.9465421667 60.1048711667
+Dest coords:  19.946919 60.104793
+Real angle:  26.19999999999999
+Dest angle:  -11.718700344095861
+Real difference:  37.91870034409584
+Smaller than 180. Going,  37.91870034409584
+Distance to actual destination:  22.697950564376338
+
+ Iteration:  150 
+ Mission time:  448
+Current wind:  350
+Wind to Bear diff:  73.10000000000002
+From the side, 3
+True Bearing 63.1
+Our coords:  19.94653 60.10487
+Dest coords:  19.946919 60.104793
+Real angle:  26.899999999999977
+Dest angle:  -11.19658785486376
+Real difference:  38.09658785486374
+Smaller than 180. Going,  38.09658785486374
+Distance to actual destination:  23.276130909778878
+
+ Iteration:  151 
+ Mission time:  450
+Current wind:  350
+Wind to Bear diff:  78.5
+From the side, 3
+True Bearing 68.6
+Our coords:  19.9465225 60.1048703333
+Dest coords:  19.946919 60.104793
+Real angle:  21.399999999999977
+Dest angle:  -11.036408510582886
+Real difference:  32.43640851058285
+Smaller than 180. Going,  32.43640851058285
+Distance to actual destination:  23.677923777324118
+
+ Iteration:  152 
+ Mission time:  452
+Current wind:  350
+Wind to Bear diff:  88.69999999999999
+From the side, 3
+True Bearing 78.7
+Our coords:  19.9465116667 60.1048706667
+Dest coords:  19.946919 60.104793
+Real angle:  11.300000000000011
+Dest angle:  -10.79507556763871
+Real difference:  22.09507556763873
+Smaller than 180. Going,  22.09507556763873
+Distance to actual destination:  24.253417421706974
+
+ Iteration:  153 
+ Mission time:  454
+Current wind:  350
+Wind to Bear diff:  72.60000000000002
+From the side, 3
+True Bearing 62.6
+Our coords:  19.9465008333 60.1048711667
+Dest coords:  19.946919 60.104793
+Real angle:  27.399999999999977
+Dest angle:  -10.587943555453455
+Real difference:  37.987943555453455
+Smaller than 180. Going,  37.987943555453455
+Distance to actual destination:  24.83675958702856
+
+ Iteration:  154 
+ Mission time:  456
+Current wind:  350
+Wind to Bear diff:  53.19999999999999
+From the side, 4
+True Bearing 43.2
+Our coords:  19.9464746667 60.104865
+Dest coords:  19.946919 60.104793
+Real angle:  46.80000000000001
+Dest angle:  -9.204235534787502
+Real difference:  56.00423553478754
+Smaller than 180. Going,  56.00423553478754
+Distance to actual destination:  25.984541987767695
+
+ Iteration:  155 
+ Mission time:  458
+Current wind:  350
+Wind to Bear diff:  60.5
+From the side, 3
+True Bearing 50.5
+Our coords:  19.9464585 60.1048588333
+Dest coords:  19.946919 60.104793
+Real angle:  39.5
+Dest angle:  -8.135904509727217
+Real difference:  47.6359045097272
+Smaller than 180. Going,  47.6359045097272
+Distance to actual destination:  26.64403632441424
+
+ Iteration:  156 
+ Mission time:  460
+Current wind:  350
+Wind to Bear diff:  58.60000000000002
+From the side, 4
+True Bearing 48.4
+Our coords:  19.946444 60.1048535
+Dest coords:  19.946919 60.104793
+Real angle:  41.60000000000002
+Dest angle:  -7.258589999907217
+Real difference:  48.858589999907224
+Smaller than 180. Going,  48.858589999907224
+Distance to actual destination:  27.26737926647086
+
+ Iteration:  157 
+ Mission time:  462
+Current wind:  350
+Wind to Bear diff:  72.19999999999999
+From the side, 3
+True Bearing 62.2
+Our coords:  19.9464288333 60.1048493333
+Dest coords:  19.946919 60.104793
+Real angle:  27.80000000000001
+Dest angle:  -6.556058177006468
+Real difference:  34.3560581770065
+Smaller than 180. Going,  34.3560581770065
+Distance to actual destination:  27.977810404402337
+
+ Iteration:  158 
+ Mission time:  464
+Current wind:  350
+Wind to Bear diff:  78.5
+From the side, 3
+True Bearing 68.4
+Our coords:  19.9464121667 60.1048478333
+Dest coords:  19.946919 60.104793
+Real angle:  21.600000000000023
+Dest angle:  -6.174701760204138
+Real difference:  27.774701760204152
+Smaller than 180. Going, Traceback (most recent call last):
+  File "/usr/lib/python2.7/encodings/__init__.py", line 31, in <module>
+ 27.774701760204152
+Distance to actual destination:  28.846128818734908
+
+ Iteration:  159 
+ Mission time:  466
+Current wind:  350
+Wind to Bear diff:  103.5
+From the side, 2
+True Bearing 93.5
+Our coords:  19.9464018333 60.1048461667
+Dest coords:  19.946919 60.104793
+Real angle:  356.5
+Dest angle:  -5.86960372153627
+Real difference:  2.3696037215362935
+Smaller than 180. Going,  2.3696037215362935
+Distance to actual destination:  29.37011016612356
+
+ Iteration:  160 
+ Mission time:  468
+Current wind:  350
+Wind to Bear diff:  88.30000000000001
+From the side, 3
+True Bearing 78.4
+Our coords:  19.9463933333 60.1048483333
+Dest coords:  19.946919 60.104793
+Real angle:  11.600000000000023
+Dest angle:  -6.009001985531973
+Real difference:  17.609001985532018
+Smaller than 180. Going,  17.609001985532018
+Distance to actual destination:  29.882209967568386
+
+ Iteration:  161 
+ Mission time:  470
+    import codecs
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "mainSteering.py", line 60, in <module>
+    x, y = getGPS()
+  File "/home/pi/RoboBoatProject/mainGPS.py", line 8, in getGPS
+    output, error = process.communicate()
+  File "/usr/lib/python3.5/subprocess.py", line 788, in communicate
+KeyboardInterrupt
+Mission start!
+
+ Iteration:  1 
+ Mission time:  0
+Current wind:  350
+Wind to Bear diff:  114.0
+From the side, 2
+True Bearing 235.8
+Our coords:  19.9461318333 60.1048398333
+Dest coords:  19.946919 60.104793
+Real angle:  214.2
+Dest angle:  -3.404858186471223
+Real difference:  217.60485818647123
+Bigger than 180. Going:  142.39514181352877
+Distance to actual destination:  44.09469993081604
+
+ Iteration:  2 
+ Mission time:  2
+Current wind:  350
+Wind to Bear diff:  146.9
+From the side, 1
+True Bearing 203.1
+Our coords:  19.9461278333 60.1048401667
+Dest coords:  19.946919 60.104793
+Real angle:  246.9
+Dest angle:  -3.411743717788541
+Real difference:  250.31174371778857
+Bigger than 180. Going:  109.68825628221143
+Distance to actual destination:  44.32002684653587
+
+ Iteration:  3 
+ Mission time:  4
+Current wind:  350
+Wind to Bear diff:  179.9
+In irons
+
+Tacking started
+Moving rudder to 30d.  -1
+Wind direction:  530
+Waiting for orientation to align 30d. 
+Bearing:  169.6
+Relative wind angle:  0.39999999999997726
+Waiting for orientation to align 30d. 
+Bearing:  161.3
+Relative wind angle:  8.699999999999989
+Waiting for orientation to align 30d. 
+Bearing:  163.0
+Relative wind angle:  7.0
+Waiting for orientation to align 30d. 
+Bearing:  174.3
+Relative wind angle:  4.300000000000011
+Waiting for orientation to align 30d. 
+Bearing:  188.7
+Relative wind angle:  18.69999999999999
+Waiting for orientation to align 30d. 
+Bearing:  197.1
+Relative wind angle:  27.099999999999994
+Waiting for orientation to align 30d. 
+Bearing:  191.0
+Relative wind angle:  21.0
+Waiting for orientation to align 30d. 
+Bearing:  183.3
+Relative wind angle:  13.300000000000011
+Waiting for orientation to align 30d. 
+Bearing:  175.6
+Relative wind angle:  5.599999999999994
+Waiting for orientation to align 30d. 
+Bearing:  175.2
+Relative wind angle:  5.199999999999989
+Waiting for orientation to align 30d. 
+Bearing:  178.4
+Relative wind angle:  8.400000000000006
+Waiting for orientation to align 30d. 
+Bearing:  177.0
+Relative wind angle:  6.900000000000006
+Waiting for orientation to align 30d. 
+Bearing:  182.3
+Relative wind angle:  12.300000000000011
+Waiting for orientation to align 30d. 
+Bearing:  187.1
+Relative wind angle:  17.099999999999994
+Waiting for orientation to align 30d. 
+Bearing:  185.1
+Relative wind angle:  15.099999999999994
+Waiting for orientation to align 30d. 
+Bearing:  183.9
+Relative wind angle:  13.900000000000006
+Waiting for orientation to align 30d. 
+Bearing:  176.6
+Relative wind angle:  6.599999999999994
+Waiting for orientation to align 30d. 
+Bearing:  169.1
+Relative wind angle:  0.8999999999999773
+Waiting for orientation to align 30d. 
+Bearing:  164.0
+Relative wind angle:  6.0
+Waiting for orientation to align 30d. 
+Bearing:  163.3
+Relative wind angle:  6.699999999999989
+Waiting for orientation to align 30d. 
+Bearing:  160.2
+Relative wind angle:  10.0
+Waiting for orientation to align 30d. 
+Bearing:  162.3
+Relative wind angle:  7.699999999999989
+Waiting for orientation to align 30d. 
+Bearing:  163.4
+Relative wind angle:  6.600000000000023
+Waiting for orientation to align 30d. 
+Bearing:  167.1
+Relative wind angle:  2.8999999999999773
+Waiting for orientation to align 30d. 
+Bearing:  171.1
+Relative wind angle:  1.0999999999999943
+Waiting for orientation to align 30d. 
+Bearing:  171.5
+Relative wind angle:  1.5
+Waiting for orientation to align 30d. 
+Bearing:  170.0
+Relative wind angle:  0.0
+Waiting for orientation to align 30d. 
+Bearing:  170.4
+Relative wind angle:  0.4000000000000057
+Waiting for orientation to align 30d. 
+Bearing:  164.0
+Relative wind angle:  6.0
+Waiting for orientation to align 30d. 
+Bearing:  161.1
+Relative wind angle:  8.899999999999977
+Waiting for orientation to align 30d. 
+Bearing:  153.6
+Relative wind angle:  16.399999999999977
+Waiting for orientation to align 30d. 
+Bearing:  151.2
+Relative wind angle:  18.899999999999977
+Waiting for orientation to align 30d. 
+Bearing:  151.0
+Relative wind angle:  19.0
+Waiting for orientation to align 30d. 
+Bearing:  150.4
+Relative wind angle:  19.600000000000023
+Waiting for orientation to align 30d. 
+Bearing:  147.1
+Relative wind angle:  22.899999999999977
+Waiting for orientation to align 30d. 
+Bearing:  151.0
+Relative wind angle:  19.0
+Waiting for orientation to align 30d. 
+Bearing:  152.3
+Relative wind angle:  17.69999999999999
+Waiting for orientation to align 30d. 
+Bearing:  145.6
+Relative wind angle:  24.399999999999977
+Waiting for orientation to align 30d. 
+Bearing:  132.8
+Relative wind angle:  37.30000000000001
+Waiting for orientation to align 30d. 
+Bearing:  129.1
+Relative wind angle:  40.89999999999998
+Moving at a 30d angle for:  22 m
+Distance left:  22.104368872867607 m
+Current GPS:  (60.1048355, 19.9461403333)
+Distance left:  20.88522095637817 m
+Current GPS:  (60.104833, 19.9461618333)
+Distance left:  20.1679291791355 m
+Current GPS:  (60.1048308333, 19.9461558333)
+Distance left:  20.366853443284647 m
+Current GPS:  (60.1048293333, 19.9461561667)
+Distance left:  20.20428710476794 m
+Current GPS:  (60.104834, 19.9461751667)
+Distance left:  18.850196692317244 m
+Current GPS:  (60.1048376667, 19.9462326667)
+Distance left:  16.020625157193585 m
+Current GPS:  (60.1048406667, 19.946221)
+Distance left:  16.819023158407422 m
+Current GPS:  (60.1048473333, 19.946211)
+Distance left:  17.04270008696818 m
+Current GPS:  (60.104849, 19.9462443333)
+Distance left:  14.643584897053035 m
+Current GPS:  (60.1048428333, 19.9462983333)
+Distance left:  11.862827374434948 m
+Current GPS:  (60.104842, 19.946344)
+Distance left:  10.179635886054822 m
+Current GPS:  (60.1048431667, 19.9463401667)
+Distance left:  9.719951710074257 m
+Current GPS:  (60.1048366667, 19.946383)
+Distance left:  7.038333925016531 m
+Current GPS:  (60.1048268333, 19.9464345)
+Tacking Stopped
+True Bearing 105.2
+Our coords:  19.9461255 60.1048373333
+Dest coords:  19.946919 60.104793
+Real angle:  344.8
+Dest angle:  -3.1978234625722655
+Real difference:  347.9978234625723
+Bigger than 180. Going:  12.002176537427715
+Distance to actual destination:  44.41268636972358
+
+ Iteration:  4 
+ Mission time:  103
+Current wind:  350
+Wind to Bear diff:  109.0
+From the side, 2
+True Bearing 99.0
+Our coords:  19.9464501667 60.1048246667
+Dest coords:  19.946919 60.104793
+Real angle:  351.0
+Dest angle:  -3.8640955201727505
+Real difference:  354.8640955201727
+Bigger than 180. Going:  5.135904479827275
+Distance to actual destination:  26.315684375415966
+
+ Iteration:  5 
+ Mission time:  105
+Current wind:  350
+Wind to Bear diff:  110.69999999999999
+From the side, 2
+True Bearing 100.7
+Our coords:  19.9464666667 60.104824
+Dest coords:  19.946919 60.104793
+Real angle:  349.3
+Dest angle:  -3.9205518982608387
+Real difference:  353.22055189826085
+Bigger than 180. Going:  6.779448101739149
+Distance to actual destination:  25.396273649847682
+
+ Iteration:  6 
+ Mission time:  107
+Current wind:  350
+Wind to Bear diff:  112.19999999999999
+From the side, 2
+True Bearing 102.5
+Our coords:  19.9464881667 60.10482
+Dest coords:  19.946919 60.104793
+Real angle:  347.5
+Dest angle:  -3.5859938788567707
+Real difference:  351.08599387885675
+Bigger than 180. Going:  8.914006121143245
+Distance to actual destination:  24.152484556575686
+
+ Iteration:  7 
+ Mission time:  109
+Current wind:  350
+Wind to Bear diff:  114.9
+From the side, 2
+True Bearing 104.8
+Our coords:  19.9465125 60.1048145
+Dest coords:  19.946919 60.104793
+Real angle:  345.2
+Dest angle:  -3.027583057345756
+Real difference:  348.2275830573457
+Bigger than 180. Going:  11.772416942654274
+Distance to actual destination:  22.73744992144604
+
+ Iteration:  8 
+ Mission time:  111
+Current wind:  350
+Wind to Bear diff:  115.6
+From the side, 2
+True Bearing 105.7
+Our coords:  19.9465361667 60.1048118333
+Dest coords:  19.946919 60.104793
+Real angle:  344.3
+Dest angle:  -2.8163678056360197
+Real difference:  347.116367805636
+Bigger than 180. Going:  12.883632194363997
+Distance to actual destination:  21.397627541088465
+
+ Iteration:  9 
+ Mission time:  113
+Current wind:  350
+Wind to Bear diff:  107.4
+From the side, 2
+True Bearing 97.5
+Our coords:  19.9465585 60.1048083333
+Dest coords:  19.946919 60.104793
+Real angle:  352.6
+Dest angle:  -2.4355178018733885
+Real difference:  355.0355178018734
+Bigger than 180. Going:  4.964482198126575
+Distance to actual destination:  20.124883479020163
+
+ Iteration:  10 
+ Mission time:  115
+Current wind:  350
+Wind to Bear diff:  109.6
+From the side, 2
+True Bearing 100.0
+Our coords:  19.946581 60.1048051667
+Dest coords:  19.946919 60.104793
+Real angle:  350.2
+Dest angle:  -2.0615376068668607
+Real difference:  352.26153760686685
+Bigger than 180. Going:  7.7384623931331475
+Distance to actual destination:  18.849522207905693
+
+ Iteration:  11 
+ Mission time:  117
+Current wind:  350
+Wind to Bear diff:  108.4
+From the side, 2
+True Bearing 98.6
+Our coords:  19.9466038333 60.1048013333
+Dest coords:  19.946919 60.104793
+Real angle:  351.4
+Dest angle:  -1.5146006789364166
+Real difference:  352.9146006789364
+Bigger than 180. Going:  7.085399321063619
+Distance to actual destination:  17.555221256357104
+
+ Iteration:  12 
+ Mission time:  119
+Current wind:  350
+Wind to Bear diff:  108.19999999999999
+From the side, 2
+True Bearing 98.2
+Our coords:  19.9466298333 60.104796
+Dest coords:  19.946919 60.104793
+Real angle:  351.8
+Dest angle:  -0.5944016789857928
+Real difference:  352.3944016789858
+Bigger than 180. Going:  7.605598321014213
+Distance to actual destination:  16.08791720176384
+
+ Iteration:  13 
+ Mission time:  121
+Current wind:  350
+Wind to Bear diff:  114.5
+From the side, 2
+True Bearing 104.6
+Our coords:  19.946656 60.1047895
+Dest coords:  19.946919 60.104793
+Real angle:  345.5
+Dest angle:  0.7624463537140588
+Real difference:  344.73755364628596
+Bigger than 180. Going:  15.26244635371404
+Distance to actual destination:  14.634160779485708
+
+ Iteration:  14 
+ Mission time:  123
+Current wind:  350
+Wind to Bear diff:  106.69999999999999
+From the side, 2
+True Bearing 96.7
+Our coords:  19.9466818333 60.1047836667
+Dest coords:  19.946919 60.104793
+Real angle:  353.3
+Dest angle:  2.25361696048655
+Real difference:  351.04638303951344
+Bigger than 180. Going:  8.953616960486556
+Distance to actual destination:  13.232948667462187
+
+ Iteration:  15 
+ Mission time:  125
+Current wind:  350
+Wind to Bear diff:  111.6
+From the side, 2
+True Bearing 101.6
+Our coords:  19.9467091667 60.1047778333
+Dest coords:  19.946919 60.104793
+Real angle:  348.4
+Dest angle:  4.1341356326358225
+Real difference:  344.26586436736414
+Bigger than 180. Going:  15.734135632635855
+Distance to actual destination:  11.793338183574546
+
+ Iteration:  16 
+ Mission time:  127
+Current wind:  350
+Wind to Bear diff:  107.5
+From the side, 2
+True Bearing 97.5
+Our coords:  19.9467343333 60.1047723333
+Dest coords:  19.946919 60.104793
+Real angle:  352.5
+Dest angle:  6.385601584574585
+Real difference:  346.1143984154254
+Bigger than 180. Going:  13.885601584574601
+Distance to actual destination:  10.526711480310304
+
+ Iteration:  17 
+ Mission time:  129
+Current wind:  350
+Wind to Bear diff:  106.0
+From the side, 2
+True Bearing 96.0
+Our coords:  19.9467583333 60.104768
+Dest coords:  19.946919 60.104793
+Real angle:  354.0
+Dest angle:  8.844391902792305
+Real difference:  345.1556080972077
+Bigger than 180. Going:  14.844391902792324
+Distance to actual destination:  9.36083569192223
+
+ Iteration:  18 
+ Mission time:  131
+Current wind:  350
+Wind to Bear diff:  116.30000000000001
+From the side, 2
+True Bearing 106.2
+Our coords:  19.9467836667 60.104765
+Dest coords:  19.946919 60.104793
+Real angle:  343.8
+Dest angle:  11.689371975413891
+Real difference:  332.1106280245861
+Bigger than 180. Going:  27.889371975413894
+Distance to actual destination:  8.14851083482708
+
+ Iteration:  19 
+ Mission time:  133
+Current wind:  350
+Wind to Bear diff:  101.60000000000002
+From the side, 2
+True Bearing 91.7
+Our coords:  19.9468108333 60.1047615
+Dest coords:  19.946919 60.104793
+Real angle:  358.4
+Dest angle:  16.236466584725694
+Real difference:  342.1635334152743
+Bigger than 180. Going:  17.836466584725713
+Distance to actual destination:  6.965374735976985
+
+ Iteration:  20 
+ Mission time:  135
+Current wind:  350
+Wind to Bear diff:  97.39999999999998
+From the side, 2
+True Bearing 87.4
+Our coords:  19.9468388333 60.1047611667
+Dest coords:  19.946919 60.104793
+Real angle:  2.6000000000000227
+Dest angle:  21.657473446709886
+Real difference:  340.9425265532901
+Bigger than 180. Going:  19.057473446709878
+Distance to actual destination:  5.69762533939805
+
+ Iteration:  21 
+ Mission time:  137
+Current wind:  350
+Wind to Bear diff:  102.5
+From the side, 2
+True Bearing 92.5
+Our coords:  19.9468586667 60.1047606667
+Dest coords:  19.946919 60.104793
+Real angle:  357.5
+Dest angle:  28.187362349478022
+Real difference:  329.312637650522
+Bigger than 180. Going:  30.687362349478008
+Distance to actual destination:  4.923368208082325
+
+
+Success.
+Next point.
+
+
+
+ Iteration:  22 
+ Mission time:  139
+Current wind:  350
+Wind to Bear diff:  104.0
+From the side, 2
+True Bearing 94.0
+Our coords:  19.9468586667 60.1047648333
+Dest coords:  19.946349 60.104691
+Real angle:  356.0
+Dest angle:  -171.7571408363274
+Real difference:  167.7571408363274
+Smaller than 180. Going,  167.7571408363274
+Distance to actual destination:  29.518817572848217
+
+ Iteration:  23 
+ Mission time:  141
+Current wind:  350
+Wind to Bear diff:  107.1
+From the side, 2
+True Bearing 97.1
+Our coords:  19.9468646667 60.104766
+Dest coords:  19.946349 60.104691
+Real angle:  352.9
+Dest angle:  -171.7247671447995
+Real difference:  164.62476714479948
+Smaller than 180. Going,  164.62476714479948
+Distance to actual destination:  29.87557828616061
+
+ Iteration:  24 
+ Mission time:  143
+Current wind:  350
+Wind to Bear diff:  99.60000000000002
+From the side, 2
+True Bearing 89.6
+Our coords:  19.9468696667 60.1047698333
+Dest coords:  19.946349 60.104691
+Real angle:  0.39999999999997726
+Dest angle:  -171.39033234861304
+Real difference:  171.79033234861302
+Smaller than 180. Going,  171.79033234861302
+Distance to actual destination:  30.263871453086587
+
+ Iteration:  25 
+ Mission time:  145
+Current wind:  350
+Wind to Bear diff:  102.10000000000002
+From the side, 2
+True Bearing 92.1
+Our coords:  19.9468728333 60.1047736667
+Dest coords:  19.946349 60.104691
+Real angle:  357.9
+Dest angle:  -171.03204991212903
+Real difference:  168.932049912129
+Smaller than 180. Going,  168.932049912129
+Distance to actual destination:  30.5584696254303
+
+ Iteration:  26 
+ Mission time:  147
+Current wind:  350
+Wind to Bear diff:  98.60000000000002
+From the side, 2
+True Bearing 88.3
+Our coords:  19.9468748333 60.1047775
+Dest coords:  19.946349 60.104691
+Real angle:  1.6999999999999886
+Dest angle:  -170.65846097756798
+Real difference:  172.35846097756797
+Smaller than 180. Going,  172.35846097756797
+Distance to actual destination:  30.79553109755397
+
+ Iteration:  27 
+ Mission time:  149
+Current wind:  350
+Wind to Bear diff:  94.30000000000001
+From the side, 2
+True Bearing 84.6
+Our coords:  19.946874 60.1047823333
+Dest coords:  19.946349 60.104691
+Real angle:  5.399999999999977
+Dest angle:  -170.1311261569301
+Real difference:  175.53112615693007
+Smaller than 180. Going,  175.53112615693007
+Distance to actual destination:  30.92449940806999
+
+ Iteration:  28 
+ Mission time:  151
+Current wind:  350
+Wind to Bear diff:  97.10000000000002
+From the side, 2
+True Bearing 87.2
+Our coords:  19.9468748333 60.104785
+Dest coords:  19.946349 60.104691
+Real angle:  2.8000000000000114
+Dest angle:  -169.86464289517505
+Real difference:  172.66464289517506
+Smaller than 180. Going,  172.66464289517506
+Distance to actual destination:  31.067165420204955
+
+ Iteration:  29 
+ Mission time:  153
+Current wind:  350
+Wind to Bear diff:  102.60000000000002
+From the side, 2
+True Bearing 92.9
+Our coords:  19.946875 60.10479
+Dest coords:  19.946349 60.104691
+Real angle:  357.1
+Dest angle:  -169.34088935576546
+Real difference:  166.44088935576548
+Smaller than 180. Going,  166.44088935576548
+Distance to actual destination:  31.268031168859274
+
+ Iteration:  30 
+ Mission time:  155
+Current wind:  350
+Wind to Bear diff:  97.89999999999998
+From the side, 2
+True Bearing 88.2
+Our coords:  19.9468771667 60.1047926667
+Dest coords:  19.946349 60.104691
+Real angle:  2.1000000000000227
+Dest angle:  -169.10441165086627
+Real difference:  171.2044116508663
+Smaller than 180. Going,  171.2044116508663
+Distance to actual destination:  31.486489314023938
+
+ Iteration:  31 
+ Mission time:  157
+Current wind:  350
+Wind to Bear diff:  105.1
+From the side, 2
+True Bearing 95.3
+Our coords:  19.9468833333 60.1047975
+Dest coords:  19.946349 60.104691
+Real angle:  354.7
+Dest angle:  -168.72787675699712
+Real difference:  163.4278767569971
+Smaller than 180. Going,  163.4278767569971
+Distance to actual destination:  32.00249776992728
+
+ Iteration:  32 
+ Mission time:  159
+Current wind:  350
+Wind to Bear diff:  126.19999999999999
+From the side, 1
+True Bearing 116.2
+Our coords:  19.9468925 60.1047983333
+Dest coords:  19.946349 60.104691
+Real angle:  333.8
+Dest angle:  -168.82867037567394
+Real difference:  142.62867037567395
+Smaller than 180. Going,  142.62867037567395
+Distance to actual destination:  32.510624674143
+
+ Iteration:  33 
+ Mission time:  161
+Current wind:  350
+Wind to Bear diff:  122.1
+From the side, 1
+True Bearing 112.2
+Our coords:  19.946893 60.1047981667
+Dest coords:  19.946349 60.104691
+Real angle:  337.8
+Dest angle:  -168.85557056567086
+Real difference:  146.65557056567087
+Smaller than 180. Going,  146.65557056567087
+Distance to actual destination:  32.52967076447214
+
+ Iteration:  34 
+ Mission time:  163
+Current wind:  350
+Wind to Bear diff:  106.5
+From the side, 2
+True Bearing 96.6
+Our coords:  19.946897 60.1047998333
+Dest coords:  19.946349 60.104691
+Real angle:  353.4
+Dest angle:  -168.76716689116947
+Real difference:  162.16716689116944
+Smaller than 180. Going,  162.16716689116944
+Distance to actual destination:  32.80491509174188
+
+ Iteration:  35 
+ Mission time:  165
+Current wind:  350
+Wind to Bear diff:  91.80000000000001
+From the side, 2
+True Bearing 81.8
+Our coords:  19.9469026667 60.1048021667
+Dest coords:  19.946349 60.104691
+Real angle:  8.199999999999989
+Dest angle:  -168.64695293613457
+Real difference:  176.84695293613456
+Smaller than 180. Going,  176.84695293613456
+Distance to actual destination:  33.19412207405997
+
+ Iteration:  36 
+ Mission time:  167
+Current wind:  350
+Wind to Bear diff:  97.60000000000002
+From the side, 2
+True Bearing 87.6
+Our coords:  19.9469081667 60.1048068333
+Dest coords:  19.946349 60.104691
+Real angle:  2.3999999999999773
+Dest angle:  -168.29651764921627
+Real difference:  170.69651764921625
+Smaller than 180. Going,  170.69651764921625
+Distance to actual destination:  33.67396553832177
+
+ Iteration:  37 
+ Mission time:  169
+Current wind:  350
+Wind to Bear diff:  94.0
+From the side, 2
+True Bearing 84.6
+Our coords:  19.9469101667 60.1048098333
+Dest coords:  19.946349 60.104691
+Real angle:  5.399999999999977
+Dest angle:  -168.04361130998552
+Real difference:  173.4436113099855
+Smaller than 180. Going,  173.4436113099855
+Distance to actual destination:  33.90585862675058
+
+ Iteration:  38 
+ Mission time:  171
+Current wind:  350
+Wind to Bear diff:  85.39999999999998
+From the side, 3
+True Bearing 75.3
+Our coords:  19.946913 60.1048136667
+Dest coords:  19.946349 60.104691
+Real angle:  14.699999999999989
+Dest angle:  -167.72959974168828
+Real difference:  182.42959974168826
+Bigger than 180. Going:  177.57040025831174
+Distance to actual destination:  34.21932416149061
+
+ Iteration:  39 
+ Mission time:  173
+Current wind:  350
+Wind to Bear diff:  100.80000000000001
+From the side, 2
+True Bearing 90.8
+Our coords:  19.9469153333 60.104817
+Dest coords:  19.946349 60.104691
+Real angle:  359.2
+Dest angle:  -167.45690958524622
+Real difference:  166.6569095852462
+Smaller than 180. Going,  166.6569095852462
+Distance to actual destination:  34.48783972112559
+
+ Iteration:  40 
+ Mission time:  175
+Current wind:  350
+Wind to Bear diff:  94.19999999999999
+From the side, 2
+True Bearing 84.1
+Our coords:  19.9469191667 60.1048208333
+Dest coords:  19.946349 60.104691
+Real angle:  5.800000000000011
+Dest angle:  -167.17185163565554
+Real difference:  172.97185163565555
+Smaller than 180. Going,  172.97185163565555
+Distance to actual destination:  34.85776393594817
+
+ Iteration:  41 
+ Mission time:  177
+Current wind:  350
+Wind to Bear diff:  102.80000000000001
+From the side, 2
+True Bearing 92.6
+Our coords:  19.94692 60.1048228333
+Dest coords:  19.946349 60.104691
+Real angle:  357.2
+Dest angle:  -166.99927952419023
+Real difference:  164.19927952419022
+Smaller than 180. Going,  164.19927952419022
+Distance to actual destination:  34.992884921047164
+
+ Iteration:  42 
+ Mission time:  179
+Current wind:  350
+Wind to Bear diff:  87.10000000000002
+From the side, 3
+True Bearing 76.6
+Our coords:  19.9469181667 60.1048268333
+Dest coords:  19.946349 60.104691
+Real angle:  13.399999999999977
+Dest angle:  -166.57726695225128
+Real difference:  179.97726695225126
+Smaller than 180. Going,  179.97726695225126
+Distance to actual destination:  35.0902397272448
+
+ Iteration:  43 
+ Mission time:  181
+Current wind:  350
+Wind to Bear diff:  97.80000000000001
+From the side, 2
+True Bearing 87.6
+Our coords:  19.9469195 60.1048288333
+Dest coords:  19.946349 60.104691
+Real angle:  2.1999999999999886
+Dest angle:  -166.41757034770134
+Real difference:  168.61757034770133
+Smaller than 180. Going,  168.61757034770133
+Distance to actual destination:  35.253656664192285
+
+ Iteration:  44 
+ Mission time:  183
+Current wind:  350
+Wind to Bear diff:  89.0
+From the side, 3
+True Bearing 79.2
+Our coords:  19.9469226667 60.1048331667
+Dest coords:  19.946349 60.104691
+Real angle:  10.800000000000011
+Dest angle:  -166.08131596614746
+Real difference:  176.88131596614747
+Smaller than 180. Going,  176.88131596614747
+Distance to actual destination:  35.62431488055589
+
+ Iteration:  45 
+ Mission time:  185
+Current wind:  350
+Wind to Bear diff:  89.69999999999999
+From the side, 3
+True Bearing 80.0
+Our coords:  19.9469203333 60.1048366667
+Dest coords:  19.946349 60.104691
+Real angle:  10.0
+Dest angle:  -165.69664133694076
+Real difference:  175.69664133694076
+Smaller than 180. Going,  175.69664133694076
+Distance to actual destination:  35.68375772437183
+
+ Iteration:  46 
+ Mission time:  187
+Current wind:  350
+Wind to Bear diff:  92.39999999999998
+From the side, 2
+True Bearing 82.2
+Our coords:  19.9469206667 60.1048401667
+Dest coords:  19.946349 60.104691
+Real angle:  7.800000000000011
+Dest angle:  -165.37572376030616
+Real difference:  173.17572376030617
+Smaller than 180. Going,  173.17572376030617
+Distance to actual destination:  35.87922489397808
+
+ Iteration:  47 
+ Mission time:  189
+Current wind:  350
+Wind to Bear diff:  89.0
+From the side, 3
+True Bearing 79.0
+Our coords:  19.9469201667 60.1048438333
+Dest coords:  19.946349 60.104691
+Real angle:  11.0
+Dest angle:  -165.01968984069393
+Real difference:  176.01968984069393
+Smaller than 180. Going,  176.01968984069393
+Distance to actual destination:  36.04574736160116
+
+ Iteration:  48 
+ Mission time:  191
+Current wind:  350
+Wind to Bear diff:  95.0
+From the side, 2
+True Bearing 85.0
+Our coords:  19.9469185 60.1048475
+Dest coords:  19.946349 60.104691
+Real angle:  5.0
+Dest angle:  -164.63427182172936
+Real difference:  169.63427182172936
+Smaller than 180. Going,  169.63427182172936
+Distance to actual destination:  36.159272999133094
+
+ Iteration:  49 
+ Mission time:  193
+Current wind:  350
+Wind to Bear diff:  89.69999999999999
+From the side, 3
+True Bearing 79.7
+Our coords:  19.9469203333 60.1048516667
+Dest coords:  19.946349 60.104691
+Real angle:  10.300000000000011
+Dest angle:  -164.29329432826992
+Real difference:  174.59329432826993
+Smaller than 180. Going,  174.59329432826993
+Distance to actual destination:  36.47421399893444
+
+ Iteration:  50 
+ Mission time:  195
+Current wind:  350
+Wind to Bear diff:  89.0
+From the side, 3
+True Bearing 79.3
+Our coords:  19.9469188333 60.1048566667
+Dest coords:  19.946349 60.104691
+Real angle:  10.699999999999989
+Dest angle:  -163.78935399998016
+Real difference:  174.48935399998015
+Smaller than 180. Going,  174.48935399998015
+Distance to actual destination:  36.67868682139762
+
+ Iteration:  51 
+ Mission time:  197
+Current wind:  350
+Wind to Bear diff:  76.69999999999999
+From the side, 3
+True Bearing 67.3
+Our coords:  19.9469156667 60.1048608333
+Dest coords:  19.946349 60.104691
+Real angle:  22.69999999999999
+Dest angle:  -163.3162213117928
+Real difference:  186.01622131179278
+Bigger than 180. Going:  173.98377868820722
+Distance to actual destination:  36.763343545448286
+
+ Iteration:  52 
+ Mission time:  199
+Current wind:  350
+Wind to Bear diff:  86.10000000000002
+From the side, 3
+True Bearing 76.2
+Our coords:  19.9469166667 60.1048626667
+Dest coords:  19.946349 60.104691
+Real angle:  13.800000000000011
+Dest angle:  -163.17428669013543
+Real difference:  176.97428669013544
+Smaller than 180. Going,  176.97428669013544
+Distance to actual destination:  36.91645812642527
+
+ Iteration:  53 
+ Mission time:  201
+Current wind:  350
+Wind to Bear diff:  82.5
+From the side, 3
+True Bearing 72.4
+Our coords:  19.9469155 60.104867
+Dest coords:  19.946349 60.104691
+Real angle:  17.600000000000023
+Dest angle:  -162.74104570738862
+Real difference:  180.34104570738864
+Bigger than 180. Going:  179.65895429261136
+Distance to actual destination:  37.113765422402466
+
+ Iteration:  54 
+ Mission time:  203
+Current wind:  350
+Wind to Bear diff:  86.10000000000002
+From the side, 3
+True Bearing 76.2
+Our coords:  19.9469136667 60.1048726667
+Dest coords:  19.946349 60.104691
+Real angle:  13.800000000000011
+Dest angle:  -162.1657825478035
+Real difference:  175.9657825478035
+Smaller than 180. Going,  175.9657825478035
+Distance to actual destination:  37.36541146973578
+
+ Iteration:  55 
+ Mission time:  205
+Current wind:  350
+Wind to Bear diff:  87.80000000000001
+From the side, 3
+True Bearing 77.8
+Our coords:  19.9469121667 60.1048758333
+Dest coords:  19.946349 60.104691
+Real angle:  12.199999999999989
+Dest angle:  -161.82998137747853
+Real difference:  174.02998137747852
+Smaller than 180. Going,  174.02998137747852
+Distance to actual destination:  37.48794186666155
+
+ Iteration:  56 
+ Mission time:  207
+Current wind:  350
+Wind to Bear diff:  83.69999999999999
+From the side, 3
+True Bearing 73.5
+Our coords:  19.9469115 60.1048783333
+Dest coords:  19.946349 60.104691
+Real angle:  16.5
+Dest angle:  -161.58033446593817
+Real difference:  178.08033446593817
+Smaller than 180. Going,  178.08033446593817
+Distance to actual destination:  37.610810832742885
+
+ Iteration:  57 
+ Mission time:  209
+Current wind:  350
+Wind to Bear diff:  83.89999999999998
+From the side, 3
+True Bearing 73.8
+Our coords:  19.9469105 60.1048813333
+Dest coords:  19.946349 60.104691
+Real angle:  16.19999999999999
+Dest angle:  -161.274732290034
+Real difference:  177.47473229003398
+Smaller than 180. Going,  177.47473229003398
+Distance to actual destination:  37.75128363320548
+
+ Iteration:  58 
+ Mission time:  211
+Current wind:  350
+Wind to Bear diff:  85.5
+From the side, 3
+True Bearing 75.5
+Our coords:  19.94691 60.1048848333
+Dest coords:  19.946349 60.104691
+Real angle:  14.5
+Dest angle:  -160.93925716347687
+Real difference:  175.43925716347687
+Smaller than 180. Going,  175.43925716347687
+Distance to actual destination:  37.94882422592677
+
+ Iteration:  59 
+ Mission time:  213
+Current wind:  350
+Wind to Bear diff:  78.5
+From the side, 3
+True Bearing 67.9
+Our coords:  19.9469078333 60.1048871667
+Dest coords:  19.946349 60.104691
+Real angle:  22.100000000000023
+Dest angle:  -160.6574468787131
+Real difference:  182.75744687871313
+Bigger than 180. Going:  177.24255312128687
+Distance to actual destination:  37.99871582556719
+
+ Iteration:  60 
+ Mission time:  215
+Current wind:  350
+Wind to Bear diff:  79.39999999999998
+From the side, 3
+True Bearing 69.6
+Our coords:  19.9469058333 60.1048895
+Dest coords:  19.946349 60.104691
+Real angle:  20.399999999999977
+Dest angle:  -160.37985971701758
+Real difference:  180.77985971701756
+Bigger than 180. Going:  179.22014028298244
+Distance to actual destination:  38.05823935522838
+
+ Iteration:  61 
+ Mission time:  217
+Current wind:  350
+Wind to Bear diff:  81.30000000000001
+From the side, 3
+True Bearing 71.4
+Our coords:  19.9469033333 60.1048931667
+Dest coords:  19.946349 60.104691
+Real angle:  18.600000000000023
+Dest angle:  -159.96296455528054
+Real difference:  178.56296455528056
+Smaller than 180. Going,  178.56296455528056
+Distance to actual destination:  38.18469689551264
+
+ Iteration:  62 
+ Mission time:  219
+Current wind:  350
+Wind to Bear diff:  85.10000000000002
+From the side, 3
+True Bearing 75.1
+Our coords:  19.9469041667 60.1048958333
+Dest coords:  19.946349 60.104691
+Real angle:  14.899999999999977
+Dest angle:  -159.7480477305367
+Real difference:  174.6480477305367
+Smaller than 180. Going,  174.6480477305367
+Distance to actual destination:  38.397966968026594
+
+ Iteration:  63 
+ Mission time:  221
+Current wind:  350
+Wind to Bear diff:  98.89999999999998
+From the side, 2
+True Bearing 89.1
+Our coords:  19.9469033333 60.1049005
+Dest coords:  19.946349 60.104691
+Real angle:  0.8999999999999773
+Dest angle:  -159.2968434341877
+Real difference:  160.19684343418768
+Smaller than 180. Going,  160.19684343418768
+Distance to actual destination:  38.67226979667906
+
+ Iteration:  64 
+ Mission time:  223
+Current wind:  350
+Wind to Bear diff:  92.80000000000001
+From the side, 2
+True Bearing 82.8
+Our coords:  19.9469101667 60.104904
+Dest coords:  19.946349 60.104691
+Real angle:  7.199999999999989
+Dest angle:  -159.21492297711302
+Real difference:  166.414922977113
+Smaller than 180. Going,  166.414922977113
+Distance to actual destination:  39.21076964286378
+
+ Iteration:  65 
+ Mission time:  225
+Current wind:  350
+Wind to Bear diff:  78.19999999999999
+From the side, 3
+True Bearing 67.7
+Our coords:  19.9469078333 60.1049075
+Dest coords:  19.946349 60.104691
+Real angle:  22.30000000000001
+Dest angle:  -158.82292087020173
+Real difference:  181.12292087020174
+Bigger than 180. Going:  178.87707912979826
+Distance to actual destination:  39.345375113891016
+
+ Iteration:  66 
+ Mission time:  227
+Current wind:  350
+Wind to Bear diff:  72.69999999999999
+From the side, 3
+True Bearing 62.8
+Our coords:  19.9469063333 60.1049105
+Dest coords:  19.946349 60.104691
+Real angle:  27.19999999999999
+Dest angle:  -158.50350871978992
+Real difference:  185.7035087197899
+Bigger than 180. Going:  174.2964912802101
+Distance to actual destination:  39.48562664654027
+
+ Iteration:  67 
+ Mission time:  229
+Current wind:  350
+Wind to Bear diff:  77.10000000000002
+From the side, 3
+True Bearing 67.1
+Our coords:  19.9469028333 60.1049136667
+Dest coords:  19.946349 60.104691
+Real angle:  22.899999999999977
+Dest angle:  -158.09758285275453
+Real difference:  180.9975828527545
+Bigger than 180. Going:  179.0024171472455
+Distance to actual destination:  39.553291430665055
+
+ Iteration:  68 
+ Mission time:  231
+Current wind:  350
+Wind to Bear diff:  83.89999999999998
+From the side, 3
+True Bearing 74.2
+Our coords:  19.9468993333 60.1049181667
+Dest coords:  19.946349 60.104691
+Real angle:  15.800000000000011
+Dest angle:  -157.57013318195496
+Real difference:  173.37013318195497
+Smaller than 180. Going,  173.37013318195497
+Distance to actual destination:  39.71942926262645
+
+ Iteration:  69 
+ Mission time:  233
+Current wind:  350
+Wind to Bear diff:  87.69999999999999
+From the side, 3
+True Bearing 77.5
+Our coords:  19.9468988333 60.1049215
+Dest coords:  19.946349 60.104691
+Real angle:  12.5
+Dest angle:  -157.25569314003693
+Real difference:  169.75569314003693
+Smaller than 180. Going,  169.75569314003693
+Distance to actual destination:  39.93579479104424
+
+ Iteration:  70 
+ Mission time:  235
+Current wind:  350
+Wind to Bear diff:  75.80000000000001
+From the side, 3
+True Bearing 65.8
+Our coords:  19.9468968333 60.104926
+Dest coords:  19.946349 60.104691
+Real angle:  24.19999999999999
+Dest angle:  -156.78247720560537
+Real difference:  180.98247720560536
+Bigger than 180. Going:  179.01752279439464
+Distance to actual destination:  40.17558495340574
+
+ Iteration:  71 
+ Mission time:  237
+Current wind:  350
+Wind to Bear diff:  87.80000000000001
+From the side, 3
+True Bearing 77.6
+Our coords:  19.946895 60.1049273333
+Dest coords:  19.946349 60.104691
+Real angle:  12.399999999999977
+Dest angle:  -156.59487369699005
+Real difference:  168.99487369699003
+Smaller than 180. Going,  168.99487369699003
+Distance to actual destination:  40.19544666150213
+
+ Iteration:  72 
+ Mission time:  239
+Current wind:  350
+Wind to Bear diff:  73.60000000000002
+From the side, 3
+True Bearing 63.6
+Our coords:  19.9468916667 60.1049321667
+Dest coords:  19.946349 60.104691
+Real angle:  26.399999999999977
+Dest angle:  -156.03914212303656
+Real difference:  182.43914212303653
+Bigger than 180. Going:  177.56085787696347
+Distance to actual destination:  40.41157066356785
+
+ Iteration:  73 
+ Mission time:  241
+Current wind:  350
+Wind to Bear diff:  85.5
+From the side, 3
+True Bearing 75.5
+Our coords:  19.9468893333 60.1049346667
+Dest coords:  19.946349 60.104691
+Real angle:  14.5
+Dest angle:  -155.72670646334836
+Real difference:  170.22670646334836
+Smaller than 180. Going,  170.22670646334836
+Distance to actual destination:  40.50088904928312
+
+ Iteration:  74 
+ Mission time:  243
+Current wind:  350
+Wind to Bear diff:  83.19999999999999
+From the side, 3
+True Bearing 73.2
+Our coords:  19.9468888333 60.1049383333
+Dest coords:  19.946349 60.104691
+Real angle:  16.80000000000001
+Dest angle:  -155.38435562834604
+Real difference:  172.18435562834605
+Smaller than 180. Going,  172.18435562834605
+Distance to actual destination:  40.75534587592849
+
+ Iteration:  75 
+ Mission time:  245
+Current wind:  350
+Wind to Bear diff:  91.0
+From the side, 2
+True Bearing 81.0
+Our coords:  19.9468871667 60.1049421667
+Dest coords:  19.946349 60.104691
+Real angle:  9.0
+Dest angle:  -154.98116221149252
+Real difference:  163.98116221149252
+Smaller than 180. Going,  163.98116221149252
+Distance to actual destination:  40.97755871336698
+
+ Iteration:  76 
+ Mission time:  247
+Current wind:  350
+Wind to Bear diff:  82.80000000000001
+From the side, 3
+True Bearing 72.5
+Our coords:  19.9468871667 60.104945
+Dest coords:  19.946349 60.104691
+Real angle:  17.5
+Dest angle:  -154.73396787311668
+Real difference:  172.23396787311668
+Smaller than 180. Going,  172.23396787311668
+Distance to actual destination:  41.193773370266385
+
+ Iteration:  77 
+ Mission time:  249
+Current wind:  350
+Wind to Bear diff:  69.80000000000001
+From the side, 3
+True Bearing 59.8
+Our coords:  19.946883 60.1049486667
+Dest coords:  19.946349 60.104691
+Real angle:  30.19999999999999
+Dest angle:  -154.24167250516712
+Real difference:  184.4416725051671
+Bigger than 180. Going:  175.5583274948329
+Distance to actual destination:  41.30851568425828
+
+ Iteration:  78 
+ Mission time:  251
+Current wind:  350
+Wind to Bear diff:  87.39999999999998
+From the side, 3
+True Bearing 77.4
+Our coords:  19.9468625 60.1049491667
+Dest coords:  19.946349 60.104691
+Real angle:  12.600000000000023
+Dest angle:  -153.30862933562116
+Real difference:  165.90862933562119
+Smaller than 180. Going,  165.90862933562119
+Distance to actual destination:  40.535861184374646
+
+ Iteration:  79 
+ Mission time:  253
+Current wind:  350
+Wind to Bear diff:  82.19999999999999
+From the side, 3
+True Bearing 72.2
+Our coords:  19.9468505 60.104949
+Dest coords:  19.946349 60.104691
+Real angle:  17.80000000000001
+Dest angle:  -152.77614454931634
+Real difference:  170.57614454931635
+Smaller than 180. Going,  170.57614454931635
+Distance to actual destination:  40.055006047648895
+
+ Iteration:  80 
+ Mission time:  255
+Current wind:  350
+Wind to Bear diff:  74.10000000000002
+From the side, 3
+True Bearing 64.1
+Our coords:  19.9468356667 60.1049506667
+Dest coords:  19.946349 60.104691
+Real angle:  25.899999999999977
+Dest angle:  -151.9173282578614
+Real difference:  177.8173282578614
+Smaller than 180. Going,  177.8173282578614
+Distance to actual destination:  39.62023274419075
+
+ Iteration:  81 
+ Mission time:  257
+Current wind:  350
+Wind to Bear diff:  70.89999999999998
+From the side, 3
+True Bearing 61.0
+Our coords:  19.946819 60.1049495
+Dest coords:  19.946349 60.104691
+Real angle:  29.0
+Dest angle:  -151.18920625759222
+Real difference:  180.18920625759222
+Bigger than 180. Going:  179.81079374240778
+Distance to actual destination:  38.89636223443112
+
+ Iteration:  82 
+ Mission time:  259
+Current wind:  350
+Wind to Bear diff:  78.60000000000002
+From the side, 3
+True Bearing 68.8
+Our coords:  19.9468086667 60.10495
+Dest coords:  19.946349 60.104691
+Real angle:  21.19999999999999
+Dest angle:  -150.60083958354042
+Real difference:  171.8008395835404
+Smaller than 180. Going,  171.8008395835404
+Distance to actual destination:  38.55407442664369
+
+ Iteration:  83 
+ Mission time:  261
+Current wind:  350
+Wind to Bear diff:  58.80000000000001
+From the side, 4
+True Bearing 48.8
+Our coords:  19.9467915 60.1049506667
+Dest coords:  19.946349 60.104691
+Real angle:  41.19999999999999
+Dest angle:  -149.5948476296672
+Real difference:  190.7948476296672
+Bigger than 180. Going:  169.2051523703328
+Distance to actual destination:  37.9841039370404
+
+ Iteration:  84 
+ Mission time:  263
+Current wind:  350
+Wind to Bear diff:  98.5
+From the side, 2
+True Bearing 88.2
+Our coords:  19.9467661667 60.10495
+Dest coords:  19.946349 60.104691
+Real angle:  1.8000000000000114
+Dest angle:  -148.16571820178063
+Real difference:  149.96571820178065
+Smaller than 180. Going,  149.96571820178065
+Distance to actual destination:  37.02862247351052
+
+ Iteration:  85 
+ Mission time:  265
+Current wind:  350
+Wind to Bear diff:  112.19999999999999
+From the side, 2
+True Bearing 102.2
+Our coords:  19.9467611667 60.104954
+Dest coords:  19.946349 60.104691
+Real angle:  347.8
+Dest angle:  -147.45840534819362
+Real difference:  135.25840534819363
+Smaller than 180. Going,  135.25840534819363
+Distance to actual destination:  37.20494230712499
+
+ Iteration:  86 
+ Mission time:  267
+Current wind:  350
+Wind to Bear diff:  126.30000000000001
+From the side, 1
+True Bearing 116.4
+Our coords:  19.9467676667 60.1049528333
+Dest coords:  19.946349 60.104691
+Real angle:  333.6
+Dest angle:  -147.9782232020798
+Real difference:  121.57822320207981
+Smaller than 180. Going,  121.57822320207981
+Distance to actual destination:  37.327143050517
+
+ Iteration:  87 
+ Mission time:  269
+Current wind:  350
+Wind to Bear diff:  145.3
+From the side, 1
+True Bearing 135.4
+Our coords:  19.9467665 60.104951
+Dest coords:  19.946349 60.104691
+Real angle:  314.6
+Dest angle:  -148.08722842395449
+Real difference:  102.68722842395451
+Smaller than 180. Going,  102.68722842395451
+Distance to actual destination:  37.12710579673426
+
+ Iteration:  88 
+ Mission time:  271
+Current wind:  350
+Wind to Bear diff:  152.4
+In irons
+
+Tacking started
+Moving rudder to 30d.  1
+Wind direction:  530
+Waiting for orientation to align 30d. 
+Bearing:  142.2
+Relative wind angle:  27.69999999999999
+Waiting for orientation to align 30d. 
+Bearing:  138.6
+Relative wind angle:  31.30000000000001
+Waiting for orientation to align 30d. 
+Bearing:  140.5
+Relative wind angle:  29.5
+Waiting for orientation to align 30d. 
+Bearing:  138.7
+Relative wind angle:  31.30000000000001
+Waiting for orientation to align 30d. 
+Bearing:  139.5
+Relative wind angle:  30.5
+Waiting for orientation to align 30d. 
+Bearing:  150.1
+Relative wind angle:  20.0
+Waiting for orientation to align 30d. 
+Bearing:  161.4
+Relative wind angle:  8.600000000000023
+Waiting for orientation to align 30d. 
+Bearing:  161.2
+Relative wind angle:  8.800000000000011
+Waiting for orientation to align 30d. 
+Bearing:  154.6
+Relative wind angle:  15.399999999999977
+Waiting for orientation to align 30d. 
+Bearing:  130.9
+Relative wind angle:  39.10000000000002
+Waiting for orientation to align 30d. 
+Bearing:  118.9
+Relative wind angle:  51.10000000000002
+Moving at a 30d angle for:  19 m
+Distance left:  18.488346808165616 m
+Current GPS:  (60.1049495, 19.9467706667)
+Distance left:  17.149292612146947 m
+Current GPS:  (60.1049416667, 19.9468123333)
+Distance left:  14.65627533820382 m
+Current GPS:  (60.1049366667, 19.9468581667)
+Distance left:  11.995618356326627 m
+Current GPS:  (60.1049376667, 19.9468798333)
+Distance left:  11.32401229714429 m
+Current GPS:  (60.1049463333, 19.9468825)
+Distance left:  11.313101896145675 m
+Current GPS:  (60.1049598333, 19.9468765)
+Distance left:  11.548090469554012 m
+Current GPS:  (60.1049685, 19.9468646667)
+Distance left:  12.617139223732579 m
+Current GPS:  (60.1049665, 19.9468178333)
+Distance left:  14.510604682186866 m
+Current GPS:  (60.1049733333, 19.9468173333)
+Distance left:  14.191540996954933 m
+Current GPS:  (60.1049733333, 19.9467766667)
+Distance left:  15.261286505086561 m
+Current GPS:  (60.1049751667, 19.9467393333)
+Distance left:  15.229791425401007 m
+Current GPS:  (60.1049721667, 19.9467046667)
+Distance left:  14.536475617382234 m
+Current GPS:  (60.1049681667, 19.9466838333)
+Distance left:  13.395069475912981 m
+Current GPS:  (60.1049666667, 19.9466398333)
+Distance left:  12.004853880017778 m
+Current GPS:  (60.104961, 19.9465995)
+Distance left:  9.450766072132309 m
+Current GPS:  (60.1049586667, 19.9465586667)
+Distance left:  7.20176742908183 m
+Current GPS:  (60.104946, 19.9465076667)
+Distance left:  4.652784253434632 m
+Current GPS:  (60.1049395, 19.9464743333)
+Tacking Stopped
+True Bearing 60.5
+Our coords:  19.9467648333 60.1049528333
+Dest coords:  19.946349 60.104691
+Real angle:  29.5
+Dest angle:  -147.80304915774184
+Real difference:  177.30304915774184
+Smaller than 180. Going,  177.30304915774184
+Distance to actual destination:  37.22902124298437
+
+ Iteration:  89 
+ Mission time:  357
+Current wind:  350
+Wind to Bear diff:  56.10000000000002
+From the side, 4
+True Bearing 46.0
+Our coords:  19.9464685 60.1049398333
+Dest coords:  19.946349 60.104691
+Real angle:  44.0
+Dest angle:  -115.65223619253223
+Real difference:  159.65223619253223
+Smaller than 180. Going,  159.65223619253223
+Distance to actual destination:  28.509238325561384
+
+ Iteration:  90 
+ Mission time:  359
+Current wind:  350
+Wind to Bear diff:  65.89999999999998
+From the side, 3
+True Bearing 55.9
+Our coords:  19.9464558333 60.1049375
+Dest coords:  19.946349 60.104691
+Real angle:  34.10000000000002
+Dest angle:  -113.43194771976272
+Real difference:  147.53194771976274
+Smaller than 180. Going,  147.53194771976274
+Distance to actual destination:  28.099110857203097
+
+ Iteration:  91 
+ Mission time:  361
+Current wind:  350
+Wind to Bear diff:  79.5
+From the side, 3
+True Bearing 69.2
+Our coords:  19.9464403333 60.1049355
+Dest coords:  19.946349 60.104691
+Real angle:  20.80000000000001
+Dest angle:  -110.48324107539412
+Real difference:  131.28324107539413
+Smaller than 180. Going,  131.28324107539413
+Distance to actual destination:  27.71041343476185
+
+ Iteration:  92 
+ Mission time:  363
+Current wind:  350
+Wind to Bear diff:  76.0
+From the side, 3
+True Bearing 66.0
+Our coords:  19.9464318333 60.1049335
+Dest coords:  19.946349 60.104691
+Real angle:  24.0
+Dest angle:  -108.85917261507763
+Real difference:  132.85917261507763
+Smaller than 180. Going,  132.85917261507763
+Distance to actual destination:  27.40796065972071
+
+ Iteration:  93 
+ Mission time:  365
+Current wind:  350
+Wind to Bear diff:  74.5
+From the side, 3
+True Bearing 64.4
+Our coords:  19.9464191667 60.1049328333
+Dest coords:  19.946349 60.104691
+Real angle:  25.600000000000023
+Dest angle:  -106.17981712629296
+Real difference:  131.77981712629298
+Smaller than 180. Going,  131.77981712629298
+Distance to actual destination:  27.224841387808986
+
+ Iteration:  94 
+ Mission time:  367
+Current wind:  350
+Wind to Bear diff:  52.69999999999999
+From the side, 4
+True Bearing 42.7
+Our coords:  19.9464013333 60.1049286667
+Dest coords:  19.946349 60.104691
+Real angle:  47.30000000000001
+Dest angle:  -102.41813958297311
+Real difference:  149.71813958297315
+Smaller than 180. Going,  149.71813958297315
+Distance to actual destination:  26.63893790173335
+
+ Iteration:  95 
+ Mission time:  369
+Current wind:  350
+Wind to Bear diff:  76.5
+From the side, 3
+True Bearing 66.5
+Our coords:  19.9463936667 60.1049285
+Dest coords:  19.946349 60.104691
+Real angle:  23.5
+Dest angle:  -100.65121892570619
+Real difference:  124.15121892570619
+Smaller than 180. Going,  124.15121892570619
+Distance to actual destination:  26.57722540596305
+
+ Iteration:  96 
+ Mission time:  371
+Current wind:  350
+Wind to Bear diff:  73.80000000000001
+From the side, 3
+True Bearing 63.8
+Our coords:  19.9463916667 60.1049268333
+Dest coords:  19.946349 60.104691
+Real angle:  26.19999999999999
+Dest angle:  -100.25496204756415
+Real difference:  126.45496204756415
+Smaller than 180. Going,  126.45496204756415
+Distance to actual destination:  26.38211042314931
+
+ Iteration:  97 
+ Mission time:  373
+Current wind:  350
+Wind to Bear diff:  57.5
+From the side, 4
+True Bearing 47.2
+Our coords:  19.9463913333 60.1049275
+Dest coords:  19.946349 60.104691
+Real angle:  42.80000000000001
+Dest angle:  -100.14841945657253
+Real difference:  142.94841945657254
+Smaller than 180. Going,  142.94841945657254
+Distance to actual destination:  26.454432731207465
+
+ Iteration:  98 
+ Mission time:  375
+Current wind:  350
+Wind to Bear diff:  40.80000000000001
+From the side, 4
+True Bearing 30.9
+Our coords:  19.9463811667 60.104925
+Dest coords:  19.946349 60.104691
+Real angle:  59.10000000000002
+Dest angle:  -97.82708192400193
+Real difference:  156.92708192400198
+Smaller than 180. Going,  156.92708192400198
+Distance to actual destination:  26.132215840759308
+
+ Iteration:  99 
+ Mission time:  377
+Current wind:  350
+Wind to Bear diff:  62.60000000000002
+From the side, 3
+True Bearing 52.6
+Our coords:  19.9463751667 60.104921
+Dest coords:  19.946349 60.104691
+Real angle:  37.39999999999998
+Dest angle:  -96.49053439418478
+Real difference:  133.89053439418478
+Smaller than 180. Going,  133.89053439418478
+Distance to actual destination:  25.66653683258517
+
+ Iteration:  100 
+ Mission time:  379
+Current wind:  350
+Wind to Bear diff:  58.60000000000002
+From the side, 4
+True Bearing 48.7
+Our coords:  19.9463586667 60.1049155
+Dest coords:  19.946349 60.104691
+Real angle:  41.39999999999998
+Dest angle:  -92.46556434204241
+Real difference:  133.86556434204238
+Smaller than 180. Going,  133.86556434204238
+Distance to actual destination:  25.018236755866077
+
+ Iteration:  101 
+ Mission time:  381
+Current wind:  350
+Wind to Bear diff:  52.69999999999999
+From the side, 4
+True Bearing 42.7
+Our coords:  19.9463465 60.1049133333
+Dest coords:  19.946349 60.104691
+Real angle:  47.30000000000001
+Dest angle:  -89.35577166168153
+Real difference:  136.6557716616815
+Smaller than 180. Going,  136.6557716616815
+Distance to actual destination:  24.771447440679108
+
+ Iteration:  102 
+ Mission time:  383
+Current wind:  350
+Wind to Bear diff:  51.19999999999999
+From the side, 4
+True Bearing 41.1
+Our coords:  19.946331 60.1049113333
+Dest coords:  19.946349 60.104691
+Real angle:  48.89999999999998
+Dest angle:  -85.32962638547409
+Real difference:  134.22962638547403
+Smaller than 180. Going,  134.22962638547403
+Distance to actual destination:  24.568638364774937
+
+ Iteration:  103 
+ Mission time:  385
+Current wind:  350
+Wind to Bear diff:  61.80000000000001
+From the side, 3
+True Bearing 51.4
+Our coords:  19.9463198333 60.1049066667
+Dest coords:  19.946349 60.104691
+Real angle:  38.60000000000002
+Dest angle:  -82.2980646282875
+Real difference:  120.89806462828756
+Smaller than 180. Going,  120.89806462828756
+Distance to actual destination:  24.083011087125325
+
+ Iteration:  104 
+ Mission time:  387
+Current wind:  350
+Wind to Bear diff:  86.89999999999998
+From the side, 3
+True Bearing 76.4
+Our coords:  19.9463053333 60.1049018333
+Dest coords:  19.946349 60.104691
+Real angle:  13.100000000000023
+Dest angle:  -78.29863910065697
+Real difference:  91.39863910065696
+Smaller than 180. Going,  91.39863910065696
+Distance to actual destination:  23.615037571897556
+
+ Iteration:  105 
+ Mission time:  389
+Current wind:  350
+Wind to Bear diff:  43.5
+From the side, 4
+True Bearing 33.8
+Our coords:  19.9462936667 60.1048953333
+Dest coords:  19.946349 60.104691
+Real angle:  56.5
+Dest angle:  -74.8477524903439
+Real difference:  131.3477524903439
+Smaller than 180. Going,  131.3477524903439
+Distance to actual destination:  22.972717457060586
+
+ Iteration:  106 
+ Mission time:  391
+Current wind:  350
+Wind to Bear diff:  48.89999999999998
+From the side, 4
+True Bearing 39.0
+Our coords:  19.946285 60.104887
+Dest coords:  19.946349 60.104691
+Real angle:  51.0
+Dest angle:  -71.91655461607031
+Real difference:  122.9165546160703
+Smaller than 180. Going,  122.9165546160703
+Distance to actual destination:  22.125422434355702
+
+ Iteration:  107 
+ Mission time:  393
+Current wind:  350
+Wind to Bear diff:  41.39999999999998
+From the side, 4
+True Bearing 31.7
+Our coords:  19.9462725 60.1048791667
+Dest coords:  19.946349 60.104691
+Real angle:  58.30000000000001
+Dest angle:  -67.87558302520424
+Real difference:  126.17558302520428
+Smaller than 180. Going,  126.17558302520428
+Distance to actual destination:  21.391901837961623
+
+ Iteration:  108 
+ Mission time:  395
+Current wind:  350
+Wind to Bear diff:  67.5
+From the side, 3
+True Bearing 57.2
+Our coords:  19.9462676667 60.1048746667
+Dest coords:  19.946349 60.104691
+Real angle:  32.80000000000001
+Dest angle:  -66.11475456340295
+Real difference:  98.91475456340294
+Smaller than 180. Going,  98.91475456340294
+Distance to actual destination:  20.957182642602767
+
+ Iteration:  109 
+ Mission time:  397
+Current wind:  350
+Wind to Bear diff:  51.89999999999998
+From the side, 4
+True Bearing 41.7
+Our coords:  19.9462711667 60.1048735
+Dest coords:  19.946349 60.104691
+Real angle:  48.30000000000001
+Dest angle:  -66.90253586923107
+Real difference:  115.2025358692311
+Smaller than 180. Going,  115.2025358692311
+Distance to actual destination:  20.788866021086324
+
+ Iteration:  110 
+ Mission time:  399
+Current wind:  350
+Wind to Bear diff:  63.10000000000002
+From the side, 3
+True Bearing 53.3
+Our coords:  19.9462598333 60.1048676667
+Dest coords:  19.946349 60.104691
+Real angle:  36.69999999999999
+Dest angle:  -63.219142263353014
+Real difference:  99.91914226335302
+Smaller than 180. Going,  99.91914226335302
+Distance to actual destination:  20.298419399435787
+
+ Iteration:  111 
+ Mission time:  401
+Current wind:  350
+Wind to Bear diff:  84.30000000000001
+From the side, 3
+True Bearing 74.3
+Our coords:  19.946254 60.104867
+Dest coords:  19.946349 60.104691
+Real angle:  15.699999999999989
+Dest angle:  -61.64103655291328
+Real difference:  77.3410365529133
+Smaller than 180. Going,  77.3410365529133
+Traceback (most recent call last):
+  File "mainSteering.py", line 66, in <module>
+    time.sleep(1)
+KeyboardInterrupt
+Mission start!
+
+ Iteration:  1 
+ Mission time:  0
+Current wind:  350
+Wind to Bear diff:  27.600000000000023
+From behind
+True Bearing 17.9
+Our coords:  19.9461676667 60.1048831667
+Dest coords:  19.946688 60.104778
+Real angle:  72.10000000000002
+Dest angle:  -11.426355536715116
+Real difference:  83.52635553671513
+Smaller than 180. Going,  83.52635553671513
+Distance to actual destination:  31.224489405795115
+
+ Iteration:  2 
+ Mission time:  2
+Current wind:  350
+Wind to Bear diff:  34.10000000000002
+From the side, 4
+True Bearing 24.1
+Our coords:  19.9461665 60.1048833333
+Dest coords:  19.946688 60.104778
+Real angle:  65.89999999999998
+Dest angle:  -11.41905023165237
+Real difference:  77.31905023165234
+Smaller than 180. Going,  77.31905023165234
+Distance to actual destination:  31.29160881482447
+
+ Iteration:  3 
+ Mission time:  4
+Current wind:  350
+Wind to Bear diff:  36.5
+From the side, 4
+True Bearing 26.5
+Our coords:  19.9461636667 60.1048828333
+Dest coords:  19.946688 60.104778
+Real angle:  63.5
+Dest angle:  -11.306427270685564
+Real difference:  74.80642727068556
+Smaller than 180. Going,  74.80642727068556
+Distance to actual destination:  31.417006252077655
+
+ Iteration:  4 
+ Mission time:  6
+Current wind:  350
+Wind to Bear diff:  43.10000000000002
+From the side, 4
+True Bearing 33.1
+Our coords:  19.9461631667 60.104882
+Dest coords:  19.946688 60.104778
+Real angle:  56.89999999999998
+Dest angle:  -11.208425692302537
+Real difference:  68.10842569230249
+Smaller than 180. Going,  68.10842569230249
+Distance to actual destination:  31.40845756239385
+
+ Iteration:  5 
+ Mission time:  8
+Current wind:  350
+Wind to Bear diff:  40.19999999999999
+From the side, 4
+True Bearing 30.2
+Our coords:  19.946163 60.1048825
+Dest coords:  19.946688 60.104778
+Real angle:  59.80000000000001
+Dest angle:  -11.257454214566227
+Real difference:  71.05745421456623
+Smaller than 180. Going,  71.05745421456623
+Distance to actual destination:  31.43766409754433
+
+ Iteration:  6 
+ Mission time:  10
+Current wind:  350
+Wind to Bear diff:  31.899999999999977
+From the side, 4
+True Bearing 21.9
+Our coords:  19.9461615 60.1048813333
+Dest coords:  19.946688 60.104778
+Real angle:  68.10000000000002
+Dest angle:  -11.103993163803475
+Real difference:  79.20399316380349
+Smaller than 180. Going,  79.20399316380349
+Distance to actual destination:  31.46739242370645
+
+ Iteration:  7 
+ Mission time:  12
+Current wind:  350
+Wind to Bear diff:  24.19999999999999
+From behind
+True Bearing 14.2
+Our coords:  19.946162 60.1048798333
+Dest coords:  19.946688 60.104778
+Real angle:  75.80000000000001
+Dest angle:  -10.956881539525346
+Real difference:  86.75688153952535
+Smaller than 180. Going,  86.75688153952535
+Distance to actual destination:  31.380702668016873
+
+ Iteration:  8 
+ Mission time:  14
+Current wind:  350
+Wind to Bear diff:  24.100000000000023
+From behind
+True Bearing 14.2
+Our coords:  19.9461651667 60.1048788333
+Dest coords:  19.946688 60.104778
+Real angle:  75.80000000000001
+Dest angle:  -10.916005370937118
+Real difference:  86.71600537093713
+Smaller than 180. Going,  86.71600537093713
+Distance to actual destination:  31.176220295128747
+
+ Iteration:  9 
+ Mission time:  16
+Current wind:  350
+Wind to Bear diff:  19.80000000000001
+From behind
+True Bearing 9.8
+Our coords:  19.9461631667 60.1048816667
+Dest coords:  19.946688 60.104778
+Real angle:  80.19999999999999
+Dest angle:  -11.173410049129751
+Real difference:  91.37341004912975
+Smaller than 180. Going,  91.37341004912975
+Distance to actual destination:  31.39477725447095
+
+ Iteration:  10 
+ Mission time:  18
+Current wind:  350
+Wind to Bear diff:  6.300000000000011
+From behind
+True Bearing 356.2
+Our coords:  19.9461648333 60.1048825
+Dest coords:  19.946688 60.104778
+Real angle:  93.80000000000001
+Dest angle:  -11.295890410483146
+Real difference:  105.09589041048315
+Smaller than 180. Going,  105.09589041048315
+Distance to actual destination:  31.342963462575423
+
+ Iteration:  11 
+ Mission time:  20
+Current wind:  350
+Wind to Bear diff:  13.699999999999989
+From behind
+True Bearing 4.0
+Our coords:  19.9461643333 60.104884
+Dest coords:  19.946688 60.104778
+Real angle:  86.0
+Dest angle:  -11.443128613655155
+Real difference:  97.44312861365518
+Smaller than 180. Going,  97.44312861365518
+Distance to actual destination:  31.431197634380478
+
+ Iteration:  12 
+ Mission time:  22
+Current wind:  350
+Wind to Bear diff:  28.80000000000001
+From behind
+True Bearing 18.8
+Our coords:  19.9461613333 60.1048886667
+Dest coords:  19.946688 60.104778
+Real angle:  71.19999999999999
+Dest angle:  -11.866727985388254
+Real difference:  83.06672798538824
+Smaller than 180. Going,  83.06672798538824
+Distance to actual destination:  31.783961988577836
+
+ Iteration:  13 
+ Mission time:  24
+Current wind:  350
+Wind to Bear diff:  42.69999999999999
+From the side, 4
+True Bearing 32.7
+Our coords:  19.9461645 60.1048928333
+Dest coords:  19.946688 60.104778
+Real angle:  57.30000000000001
+Dest angle:  -12.37226405206294
+Real difference:  69.67226405206293
+Smaller than 180. Going,  69.67226405206293
+Distance to actual destination:  31.80556440799162
+
+ Iteration:  14 
+ Mission time:  26
+Current wind:  350
+Wind to Bear diff:  52.39999999999998
+From the side, 4
+True Bearing 42.4
+Our coords:  19.9461725 60.104897
+Dest coords:  19.946688 60.104778
+Real angle:  47.60000000000002
+Dest angle:  -12.998675428709621
+Real difference:  60.59867542870967
+Smaller than 180. Going,  60.59867542870967
+Distance to actual destination:  31.590680284543275
+
+ Iteration:  15 
+ Mission time:  28
+Current wind:  350
+Wind to Bear diff:  51.80000000000001
+From the side, 4
+True Bearing 41.8
+Our coords:  19.9461846667 60.1049021667
+Dest coords:  19.946688 60.104778
+Real angle:  48.19999999999999
+Dest angle:  -13.857548219130317
+Real difference:  62.0575482191303
+Smaller than 180. Going,  62.0575482191303
+Distance to actual destination:  31.22841944094267
+
+ Iteration:  16 
+ Mission time:  30
+Current wind:  350
+Wind to Bear diff:  58.60000000000002
+From the side, 4
+True Bearing 48.5
+Our coords:  19.9461958333 60.1049093333
+Dest coords:  19.946688 60.104778
+Real angle:  41.5
+Dest angle:  -14.941073183104688
+Real difference:  56.44107318310466
+Smaller than 180. Going,  56.44107318310466
+Distance to actual destination:  31.041096924619488
+
+ Iteration:  17 
+ Mission time:  32
+Current wind:  350
+Wind to Bear diff:  66.60000000000002
+From the side, 3
+True Bearing 56.6
+Our coords:  19.9462066667 60.1049153333
+Dest coords:  19.946688 60.104778
+Real angle:  33.39999999999998
+Dest angle:  -15.924428851910262
+Real difference:  49.32442885191023
+Smaller than 180. Going,  49.32442885191023
+Distance to actual destination:  30.837146838262907
+
+ Iteration:  18 
+ Mission time:  34
+Current wind:  350
+Wind to Bear diff:  71.89999999999998
+From the side, 3
+True Bearing 62.1
+Our coords:  19.9462173333 60.1049205
+Dest coords:  19.946688 60.104778
+Real angle:  27.899999999999977
+Dest angle:  -16.844318948106462
+Real difference:  44.74431894810641
+Smaller than 180. Going,  44.74431894810641
+Distance to actual destination:  30.617946554096726
+
+ Iteration:  19 
+ Mission time:  36
+Current wind:  350
+Wind to Bear diff:  69.39999999999998
+From the side, 3
+True Bearing 59.4
+Our coords:  19.9462255 60.1049245
+Dest coords:  19.946688 60.104778
+Real angle:  30.600000000000023
+Dest angle:  -17.57595000094222
+Real difference:  48.17595000094224
+Smaller than 180. Going,  48.17595000094224
+Distance to actual destination:  30.466857428039713
+
+ Iteration:  20 
+ Mission time:  38
+Current wind:  350
+Wind to Bear diff:  66.19999999999999
+From the side, 3
+True Bearing 56.1
+Our coords:  19.9462328333 60.1049263333
+Dest coords:  19.946688 60.104778
+Real angle:  33.80000000000001
+Dest angle:  -18.05016013078713
+Real difference:  51.85016013078712
+Smaller than 180. Going,  51.85016013078712
+Distance to actual destination:  30.23438460795116
+
+ Iteration:  21 
+ Mission time:  40
+Current wind:  350
+Wind to Bear diff:  68.10000000000002
+From the side, 3
+True Bearing 58.2
+Our coords:  19.946236 60.1049293333
+Dest coords:  19.946688 60.104778
+Real angle:  31.80000000000001
+Dest angle:  -18.51096768445208
+Real difference:  50.310967684452066
+Smaller than 180. Going,  50.310967684452066
+Distance to actual destination:  30.27192167558633
+
+ Iteration:  22 
+ Mission time:  42
+Current wind:  350
+Wind to Bear diff:  68.60000000000002
+From the side, 3
+True Bearing 58.7
+Our coords:  19.9462426667 60.104932
+Dest coords:  19.946688 60.104778
+Real angle:  31.399999999999977
+Dest angle:  -19.075815807882737
+Real difference:  50.475815807882725
+Smaller than 180. Going,  50.475815807882725
+Distance to actual destination:  30.132831185766356
+
+ Iteration:  23 
+ Mission time:  44
+Current wind:  350
+Wind to Bear diff:  73.5
+From the side, 3
+True Bearing 63.5
+Our coords:  19.9462448333 60.1049331667
+Dest coords:  19.946688 60.104778
+Real angle:  26.5
+Dest angle:  -19.29676714928387
+Real difference:  45.79676714928388
+Smaller than 180. Going,  45.79676714928388
+Distance to actual destination:  30.108288201308305
+
+ Iteration:  24 
+ Mission time:  46
+Current wind:  350
+Wind to Bear diff:  73.19999999999999
+From the side, 3
+True Bearing 63.2
+Our coords:  19.9462465 60.1049363333
+Dest coords:  19.946688 60.104778
+Real angle:  26.80000000000001
+Dest angle:  -19.729144492686114
+Real difference:  46.5291444926861
+Smaller than 180. Going,  46.5291444926861
+Distance to actual destination:  30.236895423133603
+
+ Iteration:  25 
+ Mission time:  48
+Current wind:  350
+Wind to Bear diff:  78.30000000000001
+From the side, 3
+True Bearing 68.3
+Our coords:  19.94625 60.1049376667
+Dest coords:  19.946688 60.104778
+Real angle:  21.69999999999999
+Dest angle:  -20.02861098021598
+Real difference:  41.72861098021599
+Smaller than 180. Going,  41.72861098021599
+Distance to actual destination:  30.166359911964275
+
+ Iteration:  26 
+ Mission time:  50
+Current wind:  350
+Wind to Bear diff:  64.19999999999999
+From the side, 3
+True Bearing 54.3
+Our coords:  19.9462538333 60.1049408333
+Dest coords:  19.946688 60.104778
+Real angle:  35.69999999999999
+Dest angle:  -20.558450238763875
+Real difference:  56.258450238763885
+Smaller than 180. Going,  56.258450238763885
+Distance to actual destination:  30.204997512268466
+
+ Iteration:  27 
+ Mission time:  52
+Current wind:  350
+Wind to Bear diff:  58.69999999999999
+From the side, 4
+True Bearing 48.6
+Our coords:  19.9462558333 60.104944
+Dest coords:  19.946688 60.104778
+Real angle:  41.30000000000001
+Dest angle:  -21.012333703155516
+Real difference:  62.3123337031555
+Smaller than 180. Going,  62.3123337031555
+Distance to actual destination:  30.32996845953738
+
+ Iteration:  28 
+ Mission time:  54
+Current wind:  350
+Wind to Bear diff:  81.10000000000002
+From the side, 3
+True Bearing 71.1
+Our coords:  19.9462611667 60.1049455
+Dest coords:  19.946688 60.104778
+Real angle:  18.899999999999977
+Dest angle:  -21.426276940797933
+Real difference:  40.326276940797925
+Smaller than 180. Going,  40.326276940797925
+Distance to actual destination:  30.198377445836524
+
+ Iteration:  29 
+ Mission time:  56
+Current wind:  350
+Wind to Bear diff:  90.0
+From the side, 3
+True Bearing 79.8
+Our coords:  19.9462713333 60.1049468333
+Dest coords:  19.946688 60.104778
+Real angle:  10.199999999999989
+Dest angle:  -22.05778566942273
+Real difference:  32.25778566942273
+Smaller than 180. Going,  32.25778566942273
+Distance to actual destination:  29.849223408409316
+
+ Iteration:  30 
+ Mission time:  58
+Current wind:  350
+Wind to Bear diff:  99.0
+From the side, 2
+True Bearing 89.3
+Our coords:  19.9462865 60.1049486667
+Dest coords:  19.946688 60.104778
+Real angle:  0.6999999999999886
+Dest angle:  -23.02902137275344
+Real difference:  23.729021372753436
+Smaller than 180. Going,  23.729021372753436
+Distance to actual destination:  29.33104126382539
+
+ Iteration:  31 
+ Mission time:  60
+Current wind:  350
+Wind to Bear diff:  105.6
+From the side, 2
+True Bearing 95.5
+Our coords:  19.9463018333 60.1049466667
+Dest coords:  19.946688 60.104778
+Real angle:  354.5
+Dest angle:  -23.594345513784205
+Real difference:  18.09434551378422
+Smaller than 180. Going,  18.09434551378422
+Distance to actual destination:  28.539767681850048
+
+ Iteration:  32 
+ Mission time:  62
+Current wind:  350
+Wind to Bear diff:  101.39999999999998
+From the side, 2
+True Bearing 91.4
+Our coords:  19.9463185 60.104946
+Dest coords:  19.946688 60.104778
+Real angle:  358.6
+Dest angle:  -24.449795923473843
+Real difference:  23.04979592347388
+Smaller than 180. Going,  23.04979592347388
+Distance to actual destination:  27.798659163707757
+
+ Iteration:  33 
+ Mission time:  64
+Current wind:  350
+Wind to Bear diff:  99.69999999999999
+From the side, 2
+True Bearing 89.7
+Our coords:  19.946333 60.1049466667
+Dest coords:  19.946688 60.104778
+Real angle:  0.30000000000001137
+Dest angle:  -25.413209127682514
+Real difference:  25.713209127682546
+Smaller than 180. Going,  25.713209127682546
+Distance to actual destination:  27.258922869395906
+
+ Iteration:  34 
+ Mission time:  66
+Current wind:  350
+Wind to Bear diff:  96.80000000000001
+From the side, 2
+True Bearing 86.9
+Our coords:  19.9463463333 60.1049448333
+Dest coords:  19.946688 60.104778
+Real angle:  3.1000000000000227
+Dest angle:  -26.025911691684268
+Real difference:  29.12591169168428
+Smaller than 180. Going,  29.12591169168428
+Distance to actual destination:  26.583344591462524
+
+ Iteration:  35 
+ Mission time:  68
+Current wind:  350
+Wind to Bear diff:  105.19999999999999
+From the side, 2
+True Bearing 95.3
+Our coords:  19.946363 60.1049461667
+Dest coords:  19.946688 60.104778
+Real angle:  354.7
+Dest angle:  -27.35867240220655
+Real difference:  22.058672402206525
+Smaller than 180. Going,  22.058672402206525
+Distance to actual destination:  26.0353923394908
+
+ Iteration:  36 
+ Mission time:  70
+Current wind:  350
+Wind to Bear diff:  109.6
+From the side, 2
+True Bearing 99.6
+Our coords:  19.9463836667 60.1049441667
+Dest coords:  19.946688 60.104778
+Real angle:  350.4
+Dest angle:  -28.63464442726348
+Real difference:  19.03464442726346
+Smaller than 180. Going,  19.03464442726346
+Distance to actual destination:  25.085867244253123
+
+ Iteration:  37 
+ Mission time:  72
+Current wind:  350
+Wind to Bear diff:  106.30000000000001
+From the side, 2
+True Bearing 96.3
+Our coords:  19.9464045 60.104941
+Dest coords:  19.946688 60.104778
+Real angle:  353.7
+Dest angle:  -29.897003243135767
+Real difference:  23.59700324313576
+Smaller than 180. Going,  23.59700324313576
+Distance to actual destination:  24.051435826686102
+
+ Iteration:  38 
+ Mission time:  74
+Current wind:  350
+Wind to Bear diff:  104.4
+From the side, 2
+True Bearing 94.4
+Our coords:  19.9464186667 60.104939
+Dest coords:  19.946688 60.104778
+Real angle:  355.6
+Dest angle:  -30.869815119568514
+Real difference:  26.469815119568523
+Smaller than 180. Going,  26.469815119568523
+Distance to actual destination:  23.370849164213336
+
+ Iteration:  39 
+ Mission time:  76
+Current wind:  350
+Wind to Bear diff:  99.89999999999998
+From the side, 2
+True Bearing 89.9
+Our coords:  19.9464316667 60.1049376667
+Dest coords:  19.946688 60.104778
+Real angle:  0.10000000000002274
+Dest angle:  -31.918245019017906
+Real difference:  32.01824501901791
+Smaller than 180. Going,  32.01824501901791
+Distance to actual destination:  22.797947130474878
+
+ Iteration:  40 
+ Mission time:  78
+Current wind:  350
+Wind to Bear diff:  107.4
+From the side, 2
+True Bearing 97.4
+Our coords:  19.9464438333 60.1049363333
+Dest coords:  19.946688 60.104778
+Real angle:  352.6
+Dest angle:  -32.961954298750896
+Real difference:  25.561954298750948
+Smaller than 180. Going,  25.561954298750948
+Distance to actual destination:  22.263034626891514
+
+ Iteration:  41 
+ Mission time:  80
+Current wind:  350
+Wind to Bear diff:  95.5
+From the side, 2
+True Bearing 85.5
+Our coords:  19.9464535 60.1049375
+Dest coords:  19.946688 60.104778
+Real angle:  4.5
+Dest angle:  -34.22238463432337
+Real difference:  38.72238463432336
+Smaller than 180. Going,  38.72238463432336
+Distance to actual destination:  22.04380997284804
+
+ Iteration:  42 
+ Mission time:  82
+Current wind:  350
+Wind to Bear diff:  103.19999999999999
+From the side, 2
+True Bearing 93.2
+Our coords:  19.946466 60.1049345
+Dest coords:  19.946688 60.104778
+Real angle:  356.8
+Dest angle:  -35.182112570554686
+Real difference:  31.982112570554705
+Smaller than 180. Going,  31.982112570554705
+Distance to actual destination:  21.366026313364475
+
+ Iteration:  43 
+ Mission time:  84
+Current wind:  350
+Wind to Bear diff:  105.69999999999999
+From the side, 2
+True Bearing 95.5
+Our coords:  19.9464773333 60.104933
+Dest coords:  19.946688 60.104778
+Real angle:  354.5
+Dest angle:  -36.34412473097622
+Real difference:  30.844124730976205
+Smaller than 180. Going,  30.844124730976205
+Distance to actual destination:  20.86949286762765
+
+ Iteration:  44 
+ Mission time:  86
+Current wind:  350
+Wind to Bear diff:  108.1
+From the side, 2
+True Bearing 98.1
+Our coords:  19.9464881667 60.104932
+Dest coords:  19.946688 60.104778
+Real angle:  351.9
+Dest angle:  -37.61936826091488
+Real difference:  29.51936826091486
+Smaller than 180. Going,  29.51936826091486
+Distance to actual destination:  20.443603644992773
+
+ Iteration:  45 
+ Mission time:  88
+Current wind:  350
+Wind to Bear diff:  109.9
+From the side, 2
+True Bearing 99.7
+Our coords:  19.9464973333 60.1049303333
+Dest coords:  19.946688 60.104778
+Real angle:  350.3
+Dest angle:  -38.62313187120547
+Real difference:  28.9231318712055
+Smaller than 180. Going,  28.9231318712055
+Distance to actual destination:  20.013201791592525
+
+ Iteration:  46 
+ Mission time:  90
+Current wind:  350
+Wind to Bear diff:  105.6
+From the side, 2
+True Bearing 95.8
+Our coords:  19.9465075 60.104932
+Dest coords:  19.946688 60.104778
+Real angle:  354.2
+Dest angle:  -40.47033308998399
+Real difference:  34.670333089983956
+Smaller than 180. Going,  34.670333089983956
+Distance to actual destination:  19.879405831791043
+
+ Iteration:  47 
+ Mission time:  92
+Current wind:  350
+Wind to Bear diff:  108.69999999999999
+From the side, 2
+True Bearing 98.6
+Our coords:  19.9465156667 60.1049321667
+Dest coords:  19.946688 60.104778
+Real angle:  351.4
+Dest angle:  -41.81532198744313
+Real difference:  33.215321987443076
+Smaller than 180. Going,  33.215321987443076
+Distance to actual destination:  19.670111151142585
+
+ Iteration:  48 
+ Mission time:  94
+Current wind:  350
+Wind to Bear diff:  107.80000000000001
+From the side, 2
+True Bearing 97.7
+Our coords:  19.9465241667 60.1049318333
+Dest coords:  19.946688 60.104778
+Real angle:  352.3
+Dest angle:  -43.19695036237803
+Real difference:  35.49695036237807
+Smaller than 180. Going,  35.49695036237807
+Distance to actual destination:  19.411282563635194
+
+ Iteration:  49 
+ Mission time:  96
+Current wind:  350
+Wind to Bear diff:  104.69999999999999
+From the side, 2
+True Bearing 94.8
+Our coords:  19.946534 60.1049306667
+Dest coords:  19.946688 60.104778
+Real angle:  355.2
+Dest angle:  -44.7508957385765
+Real difference:  39.95089573857649
+Smaller than 180. Going,  39.95089573857649
+Distance to actual destination:  19.044414885297613
+
+ Iteration:  50 
+ Mission time:  98
+Current wind:  350
+Wind to Bear diff:  107.6
+From the side, 2
+True Bearing 97.6
+Our coords:  19.9465441667 60.1049298333
+Dest coords:  19.946688 60.104778
+Real angle:  352.4
+Dest angle:  -46.54990258264176
+Real difference:  38.949902582641755
+Smaller than 180. Going,  38.949902582641755
+Distance to actual destination:  18.712862562574898
+
+ Iteration:  51 
+ Mission time:  100
+Current wind:  350
+Wind to Bear diff:  105.9
+From the side, 2
+True Bearing 96.1
+Our coords:  19.9465541667 60.1049278333
+Dest coords:  19.946688 60.104778
+Real angle:  354.1
+Dest angle:  -48.22830445184981
+Real difference:  42.32830445184982
+Smaller than 180. Going,  42.32830445184982
+Distance to actual destination:  18.278159544334084
+
+ Iteration:  52 
+ Mission time:  102
+Current wind:  350
+Wind to Bear diff:  100.19999999999999
+From the side, 2
+True Bearing 90.3
+Our coords:  19.9465621667 60.1049276667
+Dest coords:  19.946688 60.104778
+Real angle:  359.8
+Dest angle:  -49.94432626339941
+Real difference:  49.744326263399444
+Smaller than 180. Going,  49.744326263399444
+Distance to actual destination:  18.08437361553948
+
+ Iteration:  53 
+ Mission time:  104
+Current wind:  350
+Wind to Bear diff:  102.39999999999998
+From the side, 2
+True Bearing 92.4
+Our coords:  19.9465721667 60.1049266667
+Dest coords:  19.946688 60.104778
+Real angle:  357.6
+Dest angle:  -52.07614719051416
+Real difference:  49.6761471905142
+Smaller than 180. Going,  49.6761471905142
+Distance to actual destination:  17.77257079731916
+
+ Iteration:  54 
+ Mission time:  106
+Current wind:  350
+Wind to Bear diff:  94.5
+From the side, 2
+True Bearing 84.5
+Our coords:  19.9465795 60.1049273333
+Dest coords:  19.946688 60.104778
+Real angle:  5.5
+Dest angle:  -53.99924496229238
+Real difference:  59.49924496229238
+Smaller than 180. Going,  59.49924496229238
+Distance to actual destination:  17.698593639941723
+
+ Iteration:  55 
+ Mission time:  108
+Current wind:  350
+Wind to Bear diff:  94.30000000000001
+From the side, 2
+True Bearing 79.7
+Our coords:  19.9465848333 60.1049286667
+Dest coords:  19.946688 60.104778
+Real angle:  10.300000000000011
+Dest angle:  -55.59920843608657
+Real difference:  65.89920843608655
+Smaller than 180. Going,  65.89920843608655
+Distance to actual destination:  17.74015194183941
+
+ Iteration:  56 
+ Mission time:  112
+Current wind:  350
+Wind to Bear diff:  87.60000000000002
+From the side, 3
+True Bearing 74.2
+Our coords:  19.946595 60.104933
+Dest coords:  19.946688 60.104778
+Real angle:  15.800000000000011
+Dest angle:  -59.03624346696084
+Real difference:  74.83624346696087
+Smaller than 180. Going,  74.83624346696087
+Distance to actual destination:  18.027318456743785
+
+ Iteration:  57 
+ Mission time:  116
+Current wind:  350
+Wind to Bear diff:  84.30000000000001
+From the side, 3
+True Bearing 77.3
+Our coords:  19.946596 60.1049363333
+Dest coords:  19.946688 60.104778
+Real angle:  12.699999999999989
+Dest angle:  -59.84115251399234
+Real difference:  72.54115251399236
+Smaller than 180. Going,  72.54115251399236
+Distance to actual destination:  18.367811059131554
+
+ Iteration:  58 
+ Mission time:  119
+Current wind:  350
+Wind to Bear diff:  84.39999999999998
+From the side, 3
+True Bearing 72.4
+Our coords:  19.9466001667 60.1049373333
+Dest coords:  19.946688 60.104778
+Real angle:  17.600000000000023
+Dest angle:  -61.13402322918673
+Real difference:  78.73402322918673
+Smaller than 180. Going,  78.73402322918673
+Distance to actual destination:  18.411989910256356
+
+ Iteration:  59 
+ Mission time:  123
+Current wind:  350
+Wind to Bear diff:  84.0
+From the side, 3
+True Bearing 77.0
+Our coords:  19.9466095 60.1049423333
+Dest coords:  19.946688 60.104778
+Real angle:  13.0
+Dest angle:  -64.46676655372478
+Real difference:  77.46676655372477
+Smaller than 180. Going,  77.46676655372477
+Distance to actual destination:  18.822505568253444
+
+ Iteration:  60 
+ Mission time:  126
+Current wind:  350
+Wind to Bear diff:  110.1
+From the side, 2
+True Bearing 103.8
+Our coords:  19.9466231667 60.1049421667
+Dest coords:  19.946688 60.104778
+Real angle:  346.2
+Dest angle:  -68.44976802884749
+Real difference:  54.64976802884746
+Smaller than 180. Going,  54.64976802884746
+Distance to actual destination:  18.642602963836595
+
+ Iteration:  61 
+ Mission time:  130
+Current wind:  350
+Wind to Bear diff:  127.9
+From the side, 1
+True Bearing 133.3
+Our coords:  19.946648 60.1049408333
+Dest coords:  19.946688 60.104778
+Real angle:  316.7
+Dest angle:  -76.1985712675971
+Real difference:  32.898571267597106
+Smaller than 180. Going,  32.898571267597106
+Distance to actual destination:  18.277844491947207
+
+ Iteration:  62 
+ Mission time:  133
+Current wind:  350
+Wind to Bear diff:  156.6
+In irons
+
+Tacking started
+Moving rudder to 30d.  -1
+Wind direction:  530
+Waiting for orientation to align 30d. 
+Bearing:  149.0
+Relative wind angle:  21.0
+Waiting for orientation to align 30d. 
+Bearing:  162.4
+Relative wind angle:  7.600000000000023
+Waiting for orientation to align 30d. 
+Bearing:  172.7
+Relative wind angle:  2.6999999999999886
+Waiting for orientation to align 30d. 
+Bearing:  184.5
+Relative wind angle:  14.5
+Waiting for orientation to align 30d. 
+Bearing:  195.6
+Relative wind angle:  25.599999999999994
+Waiting for orientation to align 30d. 
+Bearing:  204.0
+Relative wind angle:  34.0
+Waiting for orientation to align 30d. 
+Bearing:  218.1
+Relative wind angle:  48.099999999999994
+Moving at a 30d angle for:  9 m
+Distance left:  7.981550966087781 m
+Current GPS:  (60.1049085, 19.9466201667)
+Distance left:  5.146680745634621 m
+Current GPS:  (60.1048931667, 19.9465768333)
+Distance left:  2.581159815932101 m
+Current GPS:  (60.1048825, 19.946552)
+Tacking Stopped
+True Bearing 216.3
+Our coords:  19.9466686667 60.1049306667
+Dest coords:  19.946688 60.104778
+Real angle:  233.7
+Dest angle:  -82.78263471157429
+Real difference:  316.4826347115743
+Bigger than 180. Going:  43.51736528842571
+Distance to actual destination:  17.043178867691996
+
+ Iteration:  63 
+ Mission time:  158
+Current wind:  350
+Wind to Bear diff:  142.8
+From the side, 1
+True Bearing 199.4
+Our coords:  19.9465381667 60.1048761667
+Dest coords:  19.946688 60.104778
+Real angle:  250.6
+Dest angle:  -33.23172582912443
+Real difference:  283.8317258291245
+Bigger than 180. Going:  76.16827417087552
+Distance to actual destination:  13.750663306127654
+
+ Iteration:  64 
+ Mission time:  162
+Current wind:  350
+Wind to Bear diff:  161.4
+In irons
+
+Tacking started
+Moving rudder to 30d.  1
+Wind direction:  530
+Waiting for orientation to align 30d. 
+Bearing:  188.4
+Relative wind angle:  18.400000000000006
+Waiting for orientation to align 30d. 
+Bearing:  181.9
+Relative wind angle:  11.900000000000006
+Waiting for orientation to align 30d. 
+Bearing:  172.3
+Relative wind angle:  2.3000000000000114
+Waiting for orientation to align 30d. 
+Bearing:  166.3
+Relative wind angle:  3.6999999999999886
+Waiting for orientation to align 30d. 
+Bearing:  163.4
+Relative wind angle:  6.600000000000023
+Waiting for orientation to align 30d. 
+Bearing:  165.6
+Relative wind angle:  4.399999999999977
+Waiting for orientation to align 30d. 
+Bearing:  163.7
+Relative wind angle:  6.300000000000011
+Waiting for orientation to align 30d. 
+Bearing:  153.1
+Relative wind angle:  16.899999999999977
+Waiting for orientation to align 30d. 
+Bearing:  147.5
+Relative wind angle:  22.5
+Waiting for orientation to align 30d. 
+Bearing:  135.5
+Relative wind angle:  34.5
+Waiting for orientation to align 30d. 
+Bearing:  122.7
+Relative wind angle:  47.30000000000001
+Moving at a 30d angle for:  7 m
+Distance left:  6.697700205129264 m
+Current GPS:  (60.1048705, 19.9465445)
+Distance left:  5.734304240566017 m
+Current GPS:  (60.1048696667, 19.9465625)
+Distance left:  4.644194461139041 m
+Current GPS:  (60.1048725, 19.9465825)
+Distance left:  3.5927177648516357 m
+Current GPS:  (60.104879, 19.9465991667)
+Distance left:  2.523197153632771 m
+Current GPS:  (60.1048815, 19.9466188333)
+Distance left:  1.4442131817680721 m
+Current GPS:  (60.1048848333, 19.9466313333)
+Tacking Stopped
+True Bearing 64.6
+Our coords:  19.9465316667 60.104872
+Dest coords:  19.946688 60.104778
+Real angle:  25.399999999999977
+Dest angle:  -31.017628202512682
+Real difference:  56.417628202512674
+Smaller than 180. Going,  56.417628202512674
+Distance to actual destination:  13.612450597721372
+
+ Iteration:  65 
+ Mission time:  199
+Current wind:  350
+Wind to Bear diff:  75.69999999999999
+From the side, 3
+True Bearing 65.3
+Our coords:  19.9466341667 60.1048868333
+Dest coords:  19.946688 60.104778
+Real angle:  24.69999999999999
+Dest angle:  -63.68116097335736
+Real difference:  88.38116097335734
+Smaller than 180. Going,  88.38116097335734
+Distance to actual destination:  12.489819403564093
+
+ Iteration:  66 
+ Mission time:  203
+Current wind:  350
+Wind to Bear diff:  74.30000000000001
+From the side, 3
+True Bearing 79.4
+Our coords:  19.9466405 60.1048888333
+Dest coords:  19.946688 60.104778
+Real angle:  10.600000000000023
+Dest angle:  -66.80140324669073
+Real difference:  77.40140324669073
+Smaller than 180. Going,  77.40140324669073
+Distance to actual destination:  12.627883815360958
+
+ Iteration:  67 
+ Mission time:  206
+Current wind:  350
+Wind to Bear diff:  103.39999999999998
+From the side, 2
+True Bearing 97.7
+Our coords:  19.9466486667 60.1048876667
+Dest coords:  19.946688 60.104778
+Real angle:  352.3
+Dest angle:  -70.26900864234614
+Real difference:  62.56900864234615
+Smaller than 180. Going,  62.56900864234615
+Distance to actual destination:  12.412747840134614
+
+ Iteration:  68 
+ Mission time:  210
+Current wind:  350
+Wind to Bear diff:  104.9
+From the side, 2
+True Bearing 98.9
+Our coords:  19.9466536667 60.1048873333
+Dest coords:  19.946688 60.104778
+Real angle:  351.1
+Dest angle:  -72.56645027470493
+Real difference:  63.66645027470497
+Smaller than 180. Going,  63.66645027470497
+Distance to actual destination:  12.330059391078127
+
+ Iteration:  69 
+ Mission time:  213
+Current wind:  350
+Wind to Bear diff:  118.0
+From the side, 2
+True Bearing 120.0
+Our coords:  19.9466633333 60.104887
+Dest coords:  19.946688 60.104778
+Real angle:  330.0
+Dest angle:  -77.24874084210208
+Real difference:  47.24874084210205
+Smaller than 180. Going,  47.24874084210205
+Distance to actual destination:  12.221394426851615
+
+ Iteration:  70 
+ Mission time:  217
+Current wind:  350
+Wind to Bear diff:  136.6
+From the side, 1
+True Bearing 131.2
+Our coords:  19.9466746667 60.1048828333
+Dest coords:  19.946688 60.104778
+Real angle:  318.8
+Dest angle:  -82.75171044876846
+Real difference:  41.55171044876846
+Smaller than 180. Going,  41.55171044876846
+Distance to actual destination:  11.703426837643036
+
+ Iteration:  71 
+ Mission time:  220
+Current wind:  350
+Wind to Bear diff:  135.2
+From the side, 1
+True Bearing 119.8
+Our coords:  19.9466831667 60.1048791667
+Dest coords:  19.946688 60.104778
+Real angle:  330.2
+Dest angle:  -87.26473945826952
+Real difference:  57.46473945826949
+Smaller than 180. Going,  57.46473945826949
+Distance to actual destination:  11.274599284710453
+
+ Iteration:  72 
+ Mission time:  224
+Current wind:  350
+Wind to Bear diff:  128.7
+From the side, 1
+True Bearing 118.1
+Our coords:  19.9466886667 60.1048781667
+Dest coords:  19.946688 60.104778
+Real angle:  331.9
+Dest angle:  -90.3813496095379
+Real difference:  62.28134960953787
+Smaller than 180. Going,  62.28134960953787
+Distance to actual destination:  11.160041056605246
+
+ Iteration:  73 
+ Mission time:  227
+Current wind:  350
+Wind to Bear diff:  119.6
+From the side, 2
+True Bearing 114.4
+Our coords:  19.9466921667 60.1048798333
+Dest coords:  19.946688 60.104778
+Real angle:  335.6
+Dest angle:  -92.34305702741896
+Real difference:  67.943057027419
+Smaller than 180. Going,  67.943057027419
+Distance to actual destination:  11.348029104128948
+
+ Iteration:  74 
+ Mission time:  231
+Current wind:  350
+Wind to Bear diff:  118.0
+From the side, 2
+True Bearing 95.1
+Our coords:  19.9466978333 60.1048798333
+Dest coords:  19.946688 60.104778
+Real angle:  354.9
+Dest angle:  -95.51553554529741
+Real difference:  90.41553554529742
+Smaller than 180. Going,  90.41553554529742
+Distance to actual destination:  11.358838665174273
+
+ Iteration:  75 
+ Mission time:  234
+Current wind:  350
+Wind to Bear diff:  93.39999999999998
+From the side, 2
+True Bearing 83.8
+Our coords:  19.9466991667 60.1048821667
+Dest coords:  19.946688 60.104778
+Real angle:  6.199999999999989
+Dest angle:  -96.1187566155615
+Real difference:  102.31875661556148
+Smaller than 180. Going,  102.31875661556148
+Distance to actual destination:  11.622245146680283
+
+ Iteration:  76 
+ Mission time:  238
+Current wind:  350
+Wind to Bear diff:  97.89999999999998
+From the side, 2
+True Bearing 81.5
+Our coords:  19.9467026667 60.104882
+Dest coords:  19.946688 60.104778
+Real angle:  8.399999999999977
+Dest angle:  -98.02725551456244
+Real difference:  106.42725551456243
+Smaller than 180. Going,  106.42725551456243
+Distance to actual destination:  11.615746935163829
+
+ Iteration:  77 
+ Mission time:  241
+Current wind:  350
+Wind to Bear diff:  103.89999999999998
+From the side, 2
+True Bearing 84.5
+Our coords:  19.9467013333 60.1048811667
+Dest coords:  19.946688 60.104778
+Real angle:  5.5
+Dest angle:  -97.36410635527903
+Real difference:  102.86410635527903
+Smaller than 180. Going,  102.86410635527903
+Distance to actual destination:  11.518123362521756
+
+ Iteration:  78 
+ Mission time:  245
+Current wind:  350
+Wind to Bear diff:  95.39999999999998
+From the side, 2
+True Bearing 91.0
+Our coords:  19.9467016667 60.1048853333
+Dest coords:  19.946688 60.104778
+Real angle:  359.0
+Dest angle:  -97.25639798157354
+Real difference:  96.25639798157351
+Smaller than 180. Going,  96.25639798157351
+Distance to actual destination:  11.982577394922918
+
+ Iteration:  79 
+ Mission time:  248
+Current wind: 
