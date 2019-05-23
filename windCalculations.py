@@ -25,7 +25,6 @@ def tacking(windDegree, distanceToDest):
 		print("Waiting for orientation to align 30d. ")
 		print("Bearing: ", getBearing())
 		print("Relative wind angle: ", angleCalc)
-		logGPS()
 
 	moveRudder(0) #go in a straight line
 	moveSail(-2) #30d sail position
@@ -48,6 +47,7 @@ def tacking(windDegree, distanceToDest):
 			iteration = 0
 		print("Distance left: ", distanceToDest/2 - movedFor, "m")
 		print("Current GPS: ", getGPS())
+		logGPS()
 	print("Tacking Stopped")
 
 def analyzeWind(distanceToDest):
